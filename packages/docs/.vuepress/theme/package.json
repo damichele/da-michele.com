@@ -1,0 +1,20 @@
+{
+    "name": "vuepress-theme-da-michele",
+    "description": "Vuepress theme for our website",
+    "version": "0.20210429.0",
+    "private": true,
+    "author": "Vincenzo Romano <info@da-michele.com> (https://da-michele.com)",
+    "license": "MIT",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/da-michele/da-michele.com.git"
+    },
+    "bugs": {
+        "url": "https://github.com/da-michele/da-michele.com/issues"
+    },
+    "homepage": "https://github.com/da-michele/da-michele.com/tree/master/packages/docs/.vuepress/theme#readme",
+    "devDependencies": {
+        "vuepress": "^1.8.2"
+    }
+}

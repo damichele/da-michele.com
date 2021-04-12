@@ -1,0 +1,78 @@
+.menulink
+  margin 1rem 0
+  padding .1rem 1.5rem
+  a
+    background-color var(--blockquoteBorderColor)
+    border-radius 4px
+    color var(--textColor)
+    display inline-block
+    font-size 1.2rem
+    padding 0 .8rem
+    transition background-color .1s ease
+    box-sizing border-box
+    .title
+      font-weight bold
+    p
+      font-weight bold
+
+.teammember
+  margin 1rem 0
+  padding .1rem 1.5rem
+  color var(--base01)
+  background-color var(--base06)
+  border-radius 0.4rem
+  .title
+    font-weight bold
+
+.custom-block
+  &.right
+    color rgba($textColor, 0.4)
+    font-size 0.9rem
+    text-align right
+    @media (prefers-color-scheme dark)
+      color rgba($textDarkColor, 0.4)
+
+@font-face
+  font-family 'Labtop Secundo'
+  font-style normal
+  font-weight 400
+  src local('Labtop Secundo'), url('/fonts/labtop-secundo/labtop-secundo.ttf') format('ttf')
+
+.theme-container
+  &.custom-menu
+    h2, h3, p
+      font-family 'Labtop Secundo'
+    img
+      margin-top 0.5rem
+      margin-left 0.5rem
+      margin-right 0.5rem
+      box-sizing border-box
+      border-radius 4px
+
+:root
+  --base00 $base00
+  --base01 $base01
+  --base02 $base02
+  --base03 $base03
+  --base04 $base04
+  --base05 $base05
+  --base06 $base06
+  --base07 $base07
+  --base08 $base08
+  --base09 $base09
+  --base0A $base0A
+  --base0B $base0B
+  --base0C $base0C
+  --base0D $base0D
+  --base0E $base0E
+  --base0F $base0F
+  @media (prefers-color-scheme dark)
+    --lighten10AccentColor darken($accentDarkColor, 10%)
+    --lighten10TextColor darken($textDarkColor, 10%)
+    --lighten20TextColor darken($textDarkColor, 20%)
+    --lighten25TextColor darken($textDarkColor, 25%)
+    --lighten35TextColor darken($textDarkColor, 35%)
+    --lighten40TextColor darken($textDarkColor, 40%)
+    --darken10AccentColor lighten($accentDarkColor, 10%)
+    --darken10BgColor lighten($bgDarkColor, 10%)
+    --darken10BorderColor lighten($borderDarkColor, 10%)

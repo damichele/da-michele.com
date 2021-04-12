@@ -1,0 +1,42 @@
+{
+    "name": "da-michele",
+    "version": "0.20210429.0",
+    "private": true,
+    "description": "Ristorante da Michele",
+    "keywords": [
+        "restaurant",
+        "restaurant-website",
+        "ristorante",
+        "baden-baden",
+        "vuepress-site"
+    ],
+    "homepage": "https://github.com/da-michele/da-michele.com#readme",
+    "bugs": {
+        "url": "https://github.com/da-michele/da-michele.com/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/da-michele/da-michele.com.git"
+    },
+    "license": "MIT",
+    "author": "Vincenzo Romano <damichele.badenoos@gmail.com> (https://da-michele.com)",
+    "engines": {
+        "yarn": ">=1.22.4"
+    },
+    "scripts": {
+        "build": "yarn install && vuepress build . --no-cache",
+        "check-md": "yarn install && vuepress check-md .",
+        "dev": "yarn install && vuepress dev . --no-cache"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-active-header-links": "^1.8.2",
+        "@vuepress/plugin-back-to-top": "^1.8.2",
+        "@vuepress/plugin-google-analytics": "^1.8.2",
+        "@vuepress/plugin-pwa": "^1.8.2",
+        "@vuepress/plugin-search": "^1.8.2",
+        "vuepress": "^1.8.2",
+        "vuepress-plugin-check-md": "^0.0.2",
+        "vuepress-plugin-container": "^2.1.5",
+        "vuepress-plugin-sitemap": "^2.3.1"
+    }
+}

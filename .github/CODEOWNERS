@@ -1,0 +1,6 @@
+# default owners
+*                                       @Vinci2020
+
+# technical quality control
+/.github/workflows/                     @Vinci2020 @jrappen
+/packages/docs/.vuepress/               @Vinci2020 @jrappen
