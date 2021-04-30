@@ -94,11 +94,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 18 €
 
-### Tonno crudo
+### gebratene Jakobsmuscheln auf Kichererbsen
 
-> roher Thunfisch
-
-18 €
+16 €
 
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
