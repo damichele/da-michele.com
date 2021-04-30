@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-04-29
+date: 2021-04-30
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-04-29
+    content: 2021-04-30
 ---
 
 # Menü
@@ -88,15 +88,15 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
+### gebratene Jakobsmuscheln auf Kichererbsen
+
+16 €
+
 ### Polpo fregula
 
 > Tintenfisch mit sardinischer Pasta
 
 18 €
-
-### gebratene Jakobsmuscheln auf Kichererbsen
-
-16 €
 
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 

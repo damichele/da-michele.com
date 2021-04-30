@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-04-29
+date: 2021-04-30
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-04-29
+    content: 2021-04-30
 ---
 
 # Menu
@@ -87,15 +87,13 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
+### Fried scallops on peas
+
+16 €
+
 ### Polpo fregula
 
 > octopus with sardinian pasta
-
-18 €
-
-### Tonno crudo
-
-> raw thuna
 
 18 €
 
