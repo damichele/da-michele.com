@@ -128,10 +128,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 25 €
 
-### Sole in white wine brew
-
-25 €
-
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
 <img :src="$withBase('/food/pesci-interi/spigola.webp')" alt="Sea bass" loading="lazy">
@@ -158,12 +154,6 @@ You only need to heat up the meal in your oven at home.
 ### Veal medallions in white wine sauce
 
 19.50 €
-
-### Lamb carrée on Caponata
-
-> with braised vegetables
-
-23.50 €
 
 ### Dry Aged Black Angus Tagliata
 
