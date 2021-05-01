@@ -156,12 +156,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 19.50 €
 
-### Lammkarrée mit Caponata
-
-> auf geschmortem Gemüse
-
-23.50 €
-
 ### Tagliata vom Dry Aged Black Angus
 
 <img :src="$withBase('/food/carne/tagliata.webp')" alt="Tagliata" loading="lazy">
