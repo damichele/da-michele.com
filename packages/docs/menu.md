@@ -125,9 +125,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23.50 €
 
-### Tagliata vom Thunfisch
 
-25 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -171,9 +169,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 25 €
 
-### Rinderfilet mit grünem Spargel
-
-25 €
 
 ## Pasta
 
@@ -195,7 +190,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 13 €
 
-### Caramelle al Tartufo
+### Ravioli al Tartufo
 
 14 €
 
