@@ -187,6 +187,8 @@ We also serve gluten free pasta.
 
 ### Ravioli al Tartufo
 
+> with Truffles
+
 14 €
 
 ### Pasta Salmon and Spinach

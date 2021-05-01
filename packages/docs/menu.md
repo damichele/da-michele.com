@@ -184,11 +184,13 @@ Wir bieten auch glutenfreie Pasta an.
 
 ### Spaghetti Muscheln
 
-> Miesmuscheln
+> mit Miesmuscheln
 
 13 €
 
 ### Ravioli al Tartufo
+
+> mit Trüffel
 
 14 €
 
