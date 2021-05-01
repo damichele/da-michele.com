@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-04-30
+date: 2021-05-01
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-04-30
+    content: 2021-05-01
 ---
 
 # Menü
@@ -121,6 +121,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 21.50 €
 
+### Kabeljau im Sud
+
+23.50 €
+
 ### Tagliata vom Thunfisch
 
 25 €
@@ -128,10 +132,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Seezunge in Weißwein-Sud
 
 25 €
-
-### Kabeljau im Sud 
-
-23,50 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -199,6 +199,12 @@ Wir bieten auch glutenfreie Pasta an.
 
 12 €
 
+### Spaghetti Muscheln
+
+> Miesmuscheln
+
+13 €
+
 ### Caramelle al Tartufo
 
 14 €
@@ -228,10 +234,6 @@ Wir bieten auch glutenfreie Pasta an.
 > mit cremigem Mozzarella
 
 16 €
-
-### Spaghetti Muscheln 
-
-13 €
 
 ### Tagliatelle Trüffel <Badge text="vegetarisch"/>
 
