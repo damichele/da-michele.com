@@ -124,10 +124,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 23.50 €
 
-### Thuna tagliata
-
-25 €
-
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
 <img :src="$withBase('/food/pesci-interi/spigola.webp')" alt="Sea bass" loading="lazy">
@@ -171,10 +167,6 @@ You only need to heat up the meal in your oven at home.
 
 25 €
 
-### Beef fillet with green asparagus
-
-25 €
-
 ## Pasta
 
 > Pasta
@@ -193,7 +185,7 @@ We also serve gluten free pasta.
 
 13 €
 
-### Caramelle al Tartufo
+### Ravioli al Tartufo
 
 14 €
 
