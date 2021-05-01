@@ -129,6 +129,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 25 €
 
+### Kabeljau im Sud 
+
+23,50 €
+
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
 <img :src="$withBase('/food/pesci-interi/spigola.webp')" alt="Wolfsbasch" loading="lazy">
@@ -224,6 +228,10 @@ Wir bieten auch glutenfreie Pasta an.
 > mit cremigem Mozzarella
 
 16 €
+
+### Spaghetti Muscheln 
+
+13 €
 
 ### Tagliatelle Trüffel <Badge text="vegetarisch"/>
 
