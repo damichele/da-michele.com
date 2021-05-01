@@ -129,9 +129,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 25 €
 
-### Seezunge in Weißwein-Sud
-
-25 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
