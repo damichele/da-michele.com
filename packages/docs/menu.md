@@ -88,11 +88,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### gebratene Jakobsmuscheln auf Salat 
+### gebratene Jakobsmuscheln auf Salat
 
 16 €
 
-### Polpo al Pomodoro 
+### Polpo al Pomodoro
 
 > Tintenfisch mit sardinischer Pasta
 
@@ -117,7 +117,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Seppia gegrillt 
+### Seppia gegrillt
 
 21.50 €
 
@@ -125,7 +125,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23.50 €
 
-### Steinbutt auf Spinat 
+### Steinbutt auf Spinat
 
 25 €
 
@@ -266,7 +266,7 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 14 €
 
-### Pizza Taleggio, Patate e Spinaci 
+### Pizza Taleggio, Patate e Spinaci
 
 13 €
 
