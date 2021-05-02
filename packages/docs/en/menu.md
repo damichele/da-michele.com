@@ -43,15 +43,15 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 <FoodAntipasti/>
 
+### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
+
+9 €
+
 ### Vitello tonnato
 
 > veal with thuna sauce
 
 12 €
-
-### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
-
-9 €
 
 ### Parma ham with buffalo mozzarella
 

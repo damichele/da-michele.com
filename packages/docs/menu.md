@@ -44,15 +44,15 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 <FoodAntipasti/>
 
+### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
+
+9 €
+
 ### Vitello tonnato
 
 > Kalbfleisch mit Thunfischsauce
 
 12 €
-
-### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
-
-9 €
 
 ### Parmaschinken mit Büffelmozzarella
 
