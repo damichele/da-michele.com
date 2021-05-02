@@ -54,7 +54,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
-
 ### Parmaschinken mit Büffelmozzarella
 
 13 €
@@ -118,6 +117,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Seppia gegrillt
 
+> Tintenfisch
+
 21.50 €
 
 ### Kabeljau im Sud
@@ -169,7 +170,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 > ital. Rohmilchkäse
 
 25 €
-
 
 ## Pasta
 
