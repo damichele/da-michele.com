@@ -88,15 +88,15 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### gebratene Jakobsmuscheln auf Kichererbsen
+### gebratene Jakobsmuscheln auf Salat 
 
 16 €
 
-### Polpo fregula
+### Polpo al Pomodoro 
 
 > Tintenfisch mit sardinischer Pasta
 
-18 €
+16 €
 
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -124,6 +124,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Kabeljau im Sud
 
 23.50 €
+
+### Steinbutt auf Spinat 
+
+25 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -181,12 +185,6 @@ Wir bieten auch glutenfreie Pasta an.
 ### Pasta Gemüse <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 12 €
-
-### Spaghetti Muscheln
-
-> mit Miesmuscheln
-
-13 €
 
 ### Ravioli al Tartufo
 
@@ -267,6 +265,10 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 > Büffel Mozzarella, Tomaten
 
 14 €
+
+### Pizza Taleggio, Patate e Spinaci 
+
+13 €
 
 ### Pizza Vulcano
 
