@@ -114,7 +114,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Fish
 
-### Grilled seppia
+### Grilled sepia
 
 > squid
 

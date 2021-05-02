@@ -115,7 +115,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Seppia gegrillt
+### Sepia gegrillt
 
 > Tintenfisch
 
