@@ -87,15 +87,15 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Fried scallops on peas
+### Fried scallops on salad
 
 16 €
 
-### Polpo fregula
+### Polpo al pomodoro
 
-> octopus with sardinian pasta
+> octopus
 
-18 €
+16 €
 
 ## Antipasti misti <Badge text="only via pre-order" type="warning"/>
 
@@ -123,6 +123,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ### Cod in a broth
 
 23.50 €
+
+### Turbot on spinach
+
+25 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -180,10 +184,6 @@ We also serve gluten free pasta.
 ### Pasta Vegetables <Badge text="vegetarian"/> <Badge text="vegan"/>
 
 12 €
-
-### Spaghetti Mussels
-
-13 €
 
 ### Ravioli al Tartufo
 
@@ -256,6 +256,12 @@ You can select your own toppings.
 ### Pizza Parma
 
 > Parma ham, parmesan cheese, rucola
+
+13 €
+
+### Pizza Taleggio, Patate e Spinaci
+
+> Ital. raw milk cheese, potatoes, spinach
 
 13 €
 

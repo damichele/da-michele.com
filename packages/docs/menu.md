@@ -94,7 +94,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Polpo al Pomodoro
 
-> Tintenfisch mit sardinischer Pasta
+> Tintenfisch
 
 16 €
 
@@ -260,15 +260,17 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 13 €
 
+### Pizza Taleggio, Patate e Spinaci
+
+> ital. Rohmilchkäse, Kartoffeln, Spinat
+
+13 €
+
 ### Pizza Caprese <Badge text="vegetarisch"/>
 
 > Büffel Mozzarella, Tomaten
 
 14 €
-
-### Pizza Taleggio, Patate e Spinaci
-
-13 €
 
 ### Pizza Vulcano
 
