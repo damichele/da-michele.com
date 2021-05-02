@@ -122,6 +122,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Cod in a broth
 
+<img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Cod in a broth" loading="lazy">
+
 23.50 €
 
 ### Turbot on spinach

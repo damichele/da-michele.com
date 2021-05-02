@@ -123,6 +123,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Kabeljau im Sud
 
+<img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Kabeljau im Sud" loading="lazy">
+
 23.50 €
 
 ### Steinbutt auf Spinat
