@@ -117,7 +117,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Schwertfisch gegrillt
+### Seppia gegrillt 
 
 21.50 €
 
