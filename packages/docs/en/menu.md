@@ -49,11 +49,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 12 €
 
-### Fried artichokes <Badge text="vegetarian"/> <Badge text="vegan"/>
+### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
-<img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Fried artichokes" loading="lazy">
-
-12 €
+9 €
 
 ### Parma ham with buffalo mozzarella
 

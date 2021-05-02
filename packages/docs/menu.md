@@ -50,7 +50,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 12 €
 
-### Fenchelsalat 
+### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 9 €
 
