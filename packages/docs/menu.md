@@ -50,11 +50,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 12 €
 
-### gebratene Artischocken <Badge text="vegetarisch"/> <Badge text="vegan"/>
+### Fenchelsalat 
 
-<img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Gebratene Artischocken" loading="lazy">
+9 €
 
-12 €
 
 ### Parmaschinken mit Büffelmozzarella
 
