@@ -32,6 +32,8 @@ meta:
     content: 2021-05-04
 ---
 
+<SvgHero/>
+
 # Menu
 
 Please [call us](tel:+49722161541) or [send us a WhatsApp message](https://wa.me/491772881228?text=Hello%20Pierina,%20we%20would%20like%20to%20order%20the%20following) to place an order.
