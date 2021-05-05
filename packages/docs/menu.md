@@ -88,13 +88,13 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### gebratene Jakobsmuscheln auf Kichererbsen Püree 
+### gebratene Jakobsmuscheln auf Kichererbsen-Püree
 
 16 €
 
-### Polpo Fregola 
+### Polpo fregula
 
-> Tintenfisch
+> Tintenfisch mit sardinischer Pasta
 
 18 €
 

@@ -87,15 +87,15 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Fried scallops on salad
+### Fried scallops with mashed peas
 
 16 €
 
-### Polpo al pomodoro
+### Polpo fregula
 
-> octopus
+> octopus with sardinian pasta
 
-16 €
+18 €
 
 ## Antipasti misti <Badge text="only via pre-order" type="warning"/>
 
@@ -210,14 +210,6 @@ We also serve gluten free pasta.
 <img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta with Salsiccia and Truffles" loading="lazy">
 
 > Italian raw meat sausage
-
-16 €
-
-### Pasta Pesto and Burrata <Badge text="vegetarian"/>
-
-<img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta with Pesto and Burrata" loading="lazy">
-
-> creamy mozzarella cheese
 
 16 €
 
