@@ -189,11 +189,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 12 €
 
-### Ravioli al Tartufo
-
-> mit Trüffel
-
-14 €
 
 ### Pasta Lachs und Spinat
 
