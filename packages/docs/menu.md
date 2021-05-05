@@ -88,15 +88,15 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### gebratene Jakobsmuscheln auf Salat
+### gebratene Jakobsmuscheln auf Kichererbsen Püree 
 
 16 €
 
-### Polpo al Pomodoro
+### Polpo Fregola 
 
 > Tintenfisch
 
-16 €
+18 €
 
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -210,14 +210,6 @@ Wir bieten auch glutenfreie Pasta an.
 <img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta mit Salsiccia und Trüffel" loading="lazy">
 
 > ital. Frischwurst
-
-16 €
-
-### Pasta Pesto und Burrata <Badge text="vegetarisch"/>
-
-<img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta mit Pesto und Burrata" loading="lazy">
-
-> mit cremigem Mozzarella
 
 16 €
 
