@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "eb96fdfce7849d6e15c71b949adf7133"
+    "revision": "aeb74062fa6c79df527cb60391c34f6d"
   },
   {
-    "url": "assets/css/0.styles.ba79dabc.css",
-    "revision": "ff05a5a800e27f0e472da1529d46254d"
+    "url": "assets/css/0.styles.0a17b218.css",
+    "revision": "3045cd7da1ad02cdb1d9c86c69bfd2ce"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -174,40 +174,40 @@ self.__precacheManifest = [
     "revision": "f411f6367ed9d00e74e5f240ab30fa7e"
   },
   {
-    "url": "assets/js/app.98712f0e.js",
-    "revision": "cedc5e72086f45a424a5088c56b7a54b"
+    "url": "assets/js/app.cbcaab2b.js",
+    "revision": "bed9b56103bc76d2f7c931f76d1dab84"
   },
   {
     "url": "en/imprint.html",
-    "revision": "362a7beb459e76d4fe420e437b7f8fc1"
+    "revision": "18bdc76b64034d5888fe5a941320dd5c"
   },
   {
     "url": "en/index.html",
-    "revision": "9fdc7a45acd1990f017b8ae9726532d6"
+    "revision": "3fde307830ba7a3aec4d81d78bc13016"
   },
   {
     "url": "en/legal/privacy.html",
-    "revision": "8382d2b924e9f430e91be56eb820e511"
+    "revision": "e403ce21d259af49f30672ca583a5221"
   },
   {
     "url": "en/legal/terms.html",
-    "revision": "bf3f81c38c39593c53a77d83e8de21dc"
+    "revision": "a7bb6f93747f3b88c00eb45ef2e790c1"
   },
   {
     "url": "en/menu.html",
-    "revision": "dbe35489a6bf9bf295f91e21df5b7d09"
+    "revision": "2b019a3244d172595e86aaf72950858c"
   },
   {
     "url": "en/restaurant/about.html",
-    "revision": "3d69c5e022f8419b7845d59488dc20f3"
+    "revision": "f494304851ca77c958fdba1e3d0aabf9"
   },
   {
     "url": "en/restaurant/career.html",
-    "revision": "0952b730d0e7601d0c0c96c2ecd73785"
+    "revision": "5f30abd4f3dcb7c77f57a776b3faafa4"
   },
   {
     "url": "en/restaurant/voucher.html",
-    "revision": "cb301074b365f0b813dbd69bf187067e"
+    "revision": "9e7e8cb0c5b6a0a5290fefb4ac29bc01"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -266,56 +266,96 @@ self.__precacheManifest = [
     "revision": "e631d2735799aa943d93d301abf423d2"
   },
   {
+    "url": "fonts/lato/Lato-Black.woff",
+    "revision": "9617ba4bd466ff411e2bda15dc89b851"
+  },
+  {
     "url": "fonts/lato/Lato-BlackItalic.ttf",
     "revision": "2e26a9163cb4974dcba1bea5107d4492"
+  },
+  {
+    "url": "fonts/lato/Lato-BlackItalic.woff",
+    "revision": "5bdfbeebb7c2f00e4d2d3623a74c91e9"
   },
   {
     "url": "fonts/lato/Lato-Bold.ttf",
     "revision": "85d339d916479f729938d2911b85bf1f"
   },
   {
+    "url": "fonts/lato/Lato-Bold.woff",
+    "revision": "5409e910a6964c1014056c9488c58956"
+  },
+  {
     "url": "fonts/lato/Lato-BoldItalic.ttf",
     "revision": "f98d18040a766b7bc4884b8fcc154550"
+  },
+  {
+    "url": "fonts/lato/Lato-BoldItalic.woff",
+    "revision": "33159950020310f26329dc20bce9c149"
   },
   {
     "url": "fonts/lato/Lato-Italic.ttf",
     "revision": "7582e823ef0d702969ea0cce9afb326d"
   },
   {
+    "url": "fonts/lato/Lato-Italic.woff",
+    "revision": "4726abfcf1b6378cc52227fac116214f"
+  },
+  {
     "url": "fonts/lato/Lato-Light.ttf",
     "revision": "2fe27d9d10cdfccb1baef28a45d5ba90"
+  },
+  {
+    "url": "fonts/lato/Lato-Light.woff",
+    "revision": "2cf063e5bea5c34bc2140749a80e9d33"
   },
   {
     "url": "fonts/lato/Lato-LightItalic.ttf",
     "revision": "4d80ac573c53d192dafd99fdd6aa01e9"
   },
   {
+    "url": "fonts/lato/Lato-LightItalic.woff",
+    "revision": "601068f8268b69af20d5cb1849b3139f"
+  },
+  {
     "url": "fonts/lato/Lato-Regular.ttf",
     "revision": "2d36b1a925432bae7f3c53a340868c6e"
+  },
+  {
+    "url": "fonts/lato/Lato-Regular.woff",
+    "revision": "66423886e2d29be757450fa6a3d17392"
   },
   {
     "url": "fonts/lato/Lato-Thin.ttf",
     "revision": "9a77fbaa85fa42b73e3b96399daf49c5"
   },
   {
+    "url": "fonts/lato/Lato-Thin.woff",
+    "revision": "1db543fea9d430298db7697702961621"
+  },
+  {
     "url": "fonts/lato/Lato-ThinItalic.ttf",
     "revision": "4ac7208bbe0e3593ce9464f013607751"
   },
   {
+    "url": "fonts/lato/Lato-ThinItalic.woff",
+    "revision": "8526e9375fdff96e23f4582d453a8ffa"
+  },
+  {
     "url": "imprint.html",
-    "revision": "1e3d35dce40fef30e21606f0d3562f66"
+    "revision": "b382914be56ea0fae858efe737588f30"
   },
   {
     "url": "index.html",
-    "revision": "548eaac672db966b163307562f6b6e0e"
+    "revision": "c1ed94e5655ff8e2dc5fd0140be2c087"
   },
   {
     "url": "legal/privacy.html",
-    "revision": "a073daa154b9c44be205cb50bc1c7246"
+    "revision": "1817ca3aaac5421f0693a82089fe6671"
   },
   {
     "url": "legal/terms.html",
-    "revision": "3dbb2780de1985d58b663534a496d3b3"
+    "revision": "851c4aaf1d68d6f1d342eead5872d613"
   },
   {
     "url": "logo.png",
@@ -323,19 +363,19 @@ self.__precacheManifest = [
   },
   {
     "url": "menu.html",
-    "revision": "8c80d06a4edd04dd36e788ac0cda7ed5"
+    "revision": "28e9bf4ba87c68b289803e8c18b19504"
   },
   {
     "url": "restaurant/about.html",
-    "revision": "bd9c501f71e5d3ff30791c3b0b1556ca"
+    "revision": "d4599e7f9a2d90ea0524d55f723def24"
   },
   {
     "url": "restaurant/career.html",
-    "revision": "abe764e27d78b789bfa1b787be8d22d4"
+    "revision": "51387e206b771ca8df074cbe79a2cd29"
   },
   {
     "url": "restaurant/voucher.html",
-    "revision": "9ee400e55398171ac09ae3799a55c9f7"
+    "revision": "e79ea037c82311b3656fa62167202a83"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
