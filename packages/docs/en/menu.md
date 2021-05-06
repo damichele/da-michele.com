@@ -59,6 +59,14 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
+### Parmigiana
+
+<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
+
+> fried, sliced eggplant layered with cheese and tomato sauce, then baked
+
+14 €
+
 ### Burrata auf Caponata <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata with Zucchini and Asparagus" loading="lazy">

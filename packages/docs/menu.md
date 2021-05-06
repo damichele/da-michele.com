@@ -50,10 +50,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
-### Parmiggiana 
-
-14 €
-
 ### Vitello tonnato
 
 > Kalbfleisch mit Thunfischsauce
@@ -63,6 +59,14 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Parmaschinken mit Büffelmozzarella
 
 13 €
+
+### Parmigiana
+
+<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
+
+> Gemüse mit Parmesan-Käse und Tomatensauce in einer Form im Ofen gegart
+
+14 €
 
 ### Burrata auf Caponata <Badge text="vegetarisch"/>
 
