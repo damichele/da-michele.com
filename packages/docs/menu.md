@@ -33,9 +33,9 @@ meta:
     content: 2021-05-06
 ---
 
-<SvgHero/>
-
 # Menü
+
+<SvgHero/>
 
 Wir nehmen Deine Bestellwünsche gerne [telefonisch](tel:+49722161541) oder [per WhatsApp](https://wa.me/491772881228?text=Hallo%20Pierina,%20wir%20w%C3%BCrden%20gerne%20bei%20euch%20Folgendes%20bestellen) entgegen.
 Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghetti Carbonara, … gibt es heute:
