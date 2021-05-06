@@ -50,6 +50,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
+### Parmiggiana 
+
+14 €
+
 ### Vitello tonnato
 
 > Kalbfleisch mit Thunfischsauce
