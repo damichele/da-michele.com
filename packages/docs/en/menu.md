@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-05
+date: 2021-05-06
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-05
+    content: 2021-05-06
 ---
 
 <SvgHero/>
@@ -188,12 +188,6 @@ We also serve gluten free pasta.
 ### Pasta Vegetables <Badge text="vegetarian"/> <Badge text="vegan"/>
 
 12 €
-
-### Ravioli al Tartufo
-
-> with Truffles
-
-14 €
 
 ### Pasta Salmon and Spinach
 
