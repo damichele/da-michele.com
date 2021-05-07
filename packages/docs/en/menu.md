@@ -55,9 +55,17 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 12 €
 
+### Frittura
+
+13 €
+
 ### Parma ham with buffalo mozzarella
 
 13 €
+
+### Caesar Salad
+
+14 €
 
 ### Parmigiana
 
@@ -99,6 +107,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
+### Swordfish with eggplant and dried tomatoes
+
+18 €
+
 ### Polpo fregula
 
 > octopus with sardinian pasta
@@ -127,6 +139,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ### Grilled sepia
 
 > squid
+
+21.50 €
+
+### Sea bass fillet on Caponata
 
 21.50 €
 

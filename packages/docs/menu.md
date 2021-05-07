@@ -56,7 +56,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 12 €
 
-### Frittura 
+### Frittura
 
 13 €
 
@@ -64,7 +64,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Caesar Salat 
+### Caesar Salat
 
 14 €
 
@@ -75,10 +75,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 > Gemüse mit Parmesan-Käse und Tomatensauce in einer Form im Ofen gegart
 
 14 €
-
-### Schwertfisch mit Aubergine und getrockneten Tomaten 
-
-18 €
 
 ### Burrata auf Caponata <Badge text="vegetarisch"/>
 
@@ -112,6 +108,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
+### Schwertfisch mit Aubergine und getrockneten Tomaten
+
+18 €
+
 ### Polpo fregula
 
 > Tintenfisch mit sardinischer Pasta
@@ -137,13 +137,13 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Seppia gegrillt
+### Sepia gegrillt
 
 > Tintenfisch
 
 21.50 €
 
-### Wolfsbarschfilet auf Caponata 
+### Wolfsbarschfilet auf Caponata
 
 21.50 €
 
