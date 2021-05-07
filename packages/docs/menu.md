@@ -56,9 +56,17 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 12 €
 
+### Frittura 
+
+13 €
+
 ### Parmaschinken mit Büffelmozzarella
 
 13 €
+
+### Caesar Salat 
+
+14 €
 
 ### Parmigiana
 
@@ -125,9 +133,13 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Sepia gegrillt
+### Seppia gegrillt
 
 > Tintenfisch
+
+21.50 €
+
+### Wolfsbarschfilet auf Caponata 
 
 21.50 €
 
