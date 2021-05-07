@@ -76,6 +76,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
+### Schwertfisch mit Aubergine und getrockneten Tomaten 
+
+18 €
+
 ### Burrata auf Caponata <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata mit Zucchini und Spargel" loading="lazy">
