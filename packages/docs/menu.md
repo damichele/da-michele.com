@@ -60,6 +60,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
+### Cozze al Vino 
+
+13 €
+
 ### Parmaschinken mit Büffelmozzarella
 
 13 €
