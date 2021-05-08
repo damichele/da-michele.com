@@ -221,6 +221,10 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
+### Spaghetti Muscheln 
+
+14 €
+
 ### Gnocchi Gambas und Spargel
 
 <img :src="$withBase('/food/pasta/gnocchi_gambas.webp')" alt="Gnocchi Gambas" loading="lazy">
