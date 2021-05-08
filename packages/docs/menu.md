@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-05-07
+date: 2021-05-08
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-07
+    content: 2021-05-08
 ---
 
 # Menü
@@ -60,7 +60,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Cozze al Vino 
+### Cozze al Vino
+
+> Miesmuscheln in Wein
 
 13 €
 
@@ -221,7 +223,9 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Spaghetti Muscheln 
+### Spaghetti Muscheln
+
+> Miesmuscheln
 
 14 €
 
