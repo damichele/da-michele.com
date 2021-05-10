@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-09
+date: 2021-05-10
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-09
+    content: 2021-05-10
 ---
 
 # Menu
@@ -98,14 +98,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
 
 > baby squids, artichokes, tomatoes, rucola salad
-
-16 €
-
-### Salmon ceviche
-
-<img :src="$withBase('/food/antipasti/ceviche_di_salmone.webp')" alt="Salmon ceviche" loading="lazy">
-
-> with a brew of citrus juice
 
 16 €
 
