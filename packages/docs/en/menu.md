@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-10
+date: 2021-05-12
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-10
+    content: 2021-05-12
 ---
 
 # Menu
@@ -68,18 +68,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ### Parma ham with buffalo mozzarella
 
 13 €
-
-### Caesar Salad
-
-14 €
-
-### Parmigiana
-
-<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
-
-> fried, sliced eggplant layered with cheese and tomato sauce, then baked
-
-14 €
 
 ### Burrata auf Caponata <Badge text="vegetarian"/>
 
