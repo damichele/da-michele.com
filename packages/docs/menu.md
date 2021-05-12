@@ -279,7 +279,7 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 ### Pizza Taleggio, Patate e Spinaci
 
-<img :src="$withBase('/food/antipasti/pizza_taleggio_patate_spinaci.webp')" alt="Pizza Taleggio, Patate e Spinaci" loading="lazy">
+<img :src="$withBase('/food/pizze/pizza_taleggio_patate_spinaci.webp')" alt="Pizza Taleggio, Patate e Spinaci" loading="lazy">
 
 > ital. Rohmilchkäse, Kartoffeln, Spinat
 
