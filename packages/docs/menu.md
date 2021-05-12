@@ -70,17 +70,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Caesar Salat
-
-14 €
-
-### Parmigiana
-
-<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
-
-> Gemüse mit Parmesan-Käse und Tomatensauce in einer Form im Ofen gegart
-
-14 €
 
 ### Burrata auf Caponata <Badge text="vegetarisch"/>
 
