@@ -77,7 +77,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 14 €
 
-### Asparagus salad with gambas
+### Asparagus salad with Gambas
+
+<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Asparagus salad with Gambas" loading="lazy">
 
 16 €
 
@@ -106,6 +108,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 18 €
 
 ### Polpo fregula
+
+<img :src="$withBase('/food/antipasti/polpo_fregula.webp')" alt="Polpo fregula" loading="lazy">
 
 > octopus with sardinian pasta
 
@@ -272,6 +276,8 @@ You can select your own toppings.
 13 €
 
 ### Pizza Taleggio, Patate e Spinaci
+
+<img :src="$withBase('/food/antipasti/pizza_taleggio_patate_spinaci.webp')" alt="Pizza Taleggio, Patate e Spinaci" loading="lazy">
 
 > Ital. raw milk cheese, potatoes, spinach
 

@@ -80,6 +80,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Spargelsalat mit Gambas
 
+<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Spargelsalat mit Gambas" loading="lazy">
+
 16 €
 
 ### Calamaretti
@@ -107,6 +109,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 18 €
 
 ### Polpo fregula
+
+<img :src="$withBase('/food/antipasti/polpo_fregula.webp')" alt="Polpo fregula" loading="lazy">
 
 > Tintenfisch mit sardinischer Pasta
 
@@ -274,6 +278,8 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 13 €
 
 ### Pizza Taleggio, Patate e Spinaci
+
+<img :src="$withBase('/food/antipasti/pizza_taleggio_patate_spinaci.webp')" alt="Pizza Taleggio, Patate e Spinaci" loading="lazy">
 
 > ital. Rohmilchkäse, Kartoffeln, Spinat
 
