@@ -1,0 +1,26 @@
+name: continuous-integration
+
+on:
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'packages/docs/**'
+
+jobs:
+  ci:
+    runs-on: ubuntu-18.04
+    steps:
+
+      # Compare https://github.com/actions/checkout
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      # Compare `scripts.build` in
+      # https://github.com/da-michele/da-michele.com/blob/master/packages/docs/package.json
+      - name: Build docs
+        run: |
+          cd packages/docs
+          yarn build
