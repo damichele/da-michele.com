@@ -90,7 +90,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Lachsceviche 
+### Lachsceviche
+
+<img :src="$withBase('/food/antipasti/ceviche_di_salmone.webp')" alt="Lachsceviche" loading="lazy">
+
+> mit einem Sud aus Zitrussaft
 
 16 €
 

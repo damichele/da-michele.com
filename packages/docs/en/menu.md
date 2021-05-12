@@ -89,6 +89,14 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
+### Salmon ceviche
+
+<img :src="$withBase('/food/antipasti/ceviche_di_salmone.webp')" alt="Salmon ceviche" loading="lazy">
+
+> with a brew of citrus juice
+
+16 €
+
 ### Fried scallops with mashed peas
 
 16 €
