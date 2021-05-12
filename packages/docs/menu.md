@@ -90,6 +90,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
+### Lachsceviche 
+
+16 €
+
 ### gebratene Jakobsmuscheln auf Kichererbsen-Püree
 
 16 €
