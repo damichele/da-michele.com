@@ -319,4 +319,5 @@ You can select your own toppings.
 
 <img :src="$withBase('/food/olio-d-oliva/olio_d_oliva.webp')" alt="Olive oil" loading="lazy">
 
-12 € for a 0.5 L bottle
+* 12 € for a 0.5 L bottle
+* 20 € for a 1.0 L bottle

@@ -321,4 +321,5 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 <img :src="$withBase('/food/olio-d-oliva/olio_d_oliva.webp')" alt="Olivenöl" loading="lazy">
 
-12 € pro 0.5 L Flasche
+* 12 € pro 0.5 L Flasche
+* 20 € pro 1.0 L Flasche
