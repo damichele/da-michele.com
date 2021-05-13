@@ -69,6 +69,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
+### Parmigiana
+
+14 €
+
 ### Burrata auf Caponata <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata with Zucchini and Asparagus" loading="lazy">
@@ -204,6 +208,10 @@ We also serve gluten free pasta.
 :::
 
 ### Pasta Vegetables <Badge text="vegetarian"/> <Badge text="vegan"/>
+
+12 €
+
+### Spaghetti Bolognese
 
 12 €
 

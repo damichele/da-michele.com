@@ -78,6 +78,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
+### Parmigiana
+
+14 €
+
 ### Spargelsalat mit Gambas
 
 <img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Spargelsalat mit Gambas" loading="lazy">
@@ -204,6 +208,10 @@ Wir bieten auch glutenfreie Pasta an.
 :::
 
 ### Pasta Gemüse <Badge text="vegetarisch"/> <Badge text="vegan"/>
+
+12 €
+
+### Spaghetti Boöognese
 
 12 €
 
