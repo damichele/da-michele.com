@@ -207,7 +207,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 12 €
 
-### Spaghetti Boöognese
+### Spaghetti Bolognese
 
 12 €
 
