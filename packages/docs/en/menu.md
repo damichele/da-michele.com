@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-12
+date: 2021-05-13
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-12
+    content: 2021-05-13
 ---
 
 # Menu
@@ -172,10 +172,6 @@ You only need to heat up the meal in your oven at home.
 ## Carne
 
 > Meat
-
-### Veal liver alla Veneziana
-
-16 €
 
 ### Veal medallions in white wine sauce
 

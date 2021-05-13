@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-05-12
+date: 2021-05-13
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-12
+    content: 2021-05-13
 ---
 
 # Menü
@@ -172,10 +172,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 ## Carne
 
 > Fleisch
-
-### Kalbsleber alla Veneziana
-
-16 €
 
 ### Kalbsmedallions in Weißweinsauce
 
