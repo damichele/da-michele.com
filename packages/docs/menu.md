@@ -108,10 +108,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Schwertfisch mit Aubergine und getrockneten Tomaten
-
-18 €
-
 ### Polpo fregula
 
 <img :src="$withBase('/food/antipasti/polpo_fregula.webp')" alt="Polpo fregula" loading="lazy">

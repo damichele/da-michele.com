@@ -107,10 +107,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Swordfish with eggplant and dried tomatoes
-
-18 €
-
 ### Polpo fregula
 
 <img :src="$withBase('/food/antipasti/polpo_fregula.webp')" alt="Polpo fregula" loading="lazy">
