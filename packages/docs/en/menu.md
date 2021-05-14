@@ -146,10 +146,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 23.50 €
 
-### Turbot on spinach
-
-25 €
-
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
 <img :src="$withBase('/food/pesci-interi/spigola.webp')" alt="Sea bass" loading="lazy">

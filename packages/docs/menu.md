@@ -147,10 +147,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23.50 €
 
-### Steinbutt auf Spinat
-
-25 €
-
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
 <img :src="$withBase('/food/pesci-interi/spigola.webp')" alt="Wolfsbasch" loading="lazy">
