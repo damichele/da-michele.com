@@ -141,6 +141,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 21.50 €
 
+### Schwertfisch gegrillt
+
+21.50 €
+
 ### Kabeljau im Sud
 
 <img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Kabeljau im Sud" loading="lazy">

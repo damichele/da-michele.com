@@ -140,6 +140,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 21.50 €
 
+### Grilled swordfish
+
+21.50 €
+
 ### Cod in a broth
 
 <img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Cod in a broth" loading="lazy">
