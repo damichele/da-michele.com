@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-13
+date: 2021-05-14
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-13
+    content: 2021-05-14
 ---
 
 # Menu
@@ -137,10 +137,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ### Grilled sepia
 
 > squid
-
-21.50 €
-
-### Sea bass fillet on Caponata
 
 21.50 €
 

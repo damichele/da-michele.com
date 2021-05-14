@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-05-13
+date: 2021-05-14
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-13
+    content: 2021-05-14
 ---
 
 # Menü
@@ -138,10 +138,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Sepia gegrillt
 
 > Tintenfisch
-
-21.50 €
-
-### Wolfsbarschfilet auf Caponata
 
 21.50 €
 
