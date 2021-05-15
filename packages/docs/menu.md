@@ -46,7 +46,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 <FoodAntipasti/>
 
-### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
+### Fenchel-Orangensalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 9 €
 
@@ -57,12 +57,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 12 €
 
 ### Frittura
-
-13 €
-
-### Cozze al Vino
-
-> Miesmuscheln in Wein
 
 13 €
 
@@ -211,11 +205,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Spaghetti Muscheln
-
-> Miesmuscheln
-
-14 €
 
 ### Gnocchi Gambas und Spargel
 
