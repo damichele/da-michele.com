@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-14
+date: 2021-05-15
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-14
+    content: 2021-05-15
 ---
 
 # Menu
@@ -45,7 +45,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 <FoodAntipasti/>
 
-### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
+### Fennel and orange salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
 9 €
 
@@ -56,12 +56,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 12 €
 
 ### Frittura
-
-13 €
-
-### Cozze al Vino
-
-> Mussels in wine
 
 13 €
 
@@ -206,10 +200,6 @@ We also serve gluten free pasta.
 ### Spaghetti Bolognese
 
 12 €
-
-### Spaghetti Mussels
-
-14 €
 
 ### Pasta Salmon and Spinach
 

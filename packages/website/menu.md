@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-05-14
+date: 2021-05-15
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-14
+    content: 2021-05-15
 ---
 
 # Menü
@@ -204,7 +204,6 @@ Wir bieten auch glutenfreie Pasta an.
 ### Pasta Lachs und Spinat
 
 14 €
-
 
 ### Gnocchi Gambas und Spargel
 
