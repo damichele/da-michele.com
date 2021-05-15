@@ -9,8 +9,9 @@
 *.jpeg                      binary
 *.jpg                       binary
 *.mp4                       binary
-*.pdf                       binary      diff=astextplain
+*.pdf                       binary          diff=astextplain
 *.png                       binary
+*.tex                                       diff=tex
 *.ttf                       binary
 *.webp                      binary
 

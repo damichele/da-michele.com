@@ -19,7 +19,7 @@ yarn.lock
 # Output
 
 docs/
-!packages/docs/
+!packages/printout/docs/
 
 # Sublime Text
 
