@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - 'packages/docs/**'
+      - 'packages/website/**'
 
 jobs:
   ci:
@@ -19,8 +19,8 @@ jobs:
           persist-credentials: false
 
       # Compare `scripts.build` in
-      # https://github.com/da-michele/da-michele.com/blob/master/packages/docs/package.json
-      - name: Build docs
+      # https://github.com/da-michele/da-michele.com/blob/master/packages/website/package.json
+      - name: Build website
         run: |
-          cd packages/docs
+          cd packages/website
           yarn build

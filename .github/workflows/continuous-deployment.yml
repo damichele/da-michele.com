@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - 'packages/docs/**'
+      - 'packages/website/**'
 
 jobs:
   deploy:
@@ -19,14 +19,14 @@ jobs:
           persist-credentials: false
 
       # Compare `scripts.build` in
-      # https://github.com/da-michele/da-michele.com/blob/master/packages/docs/package.json
-      - name: Build docs
+      # https://github.com/da-michele/da-michele.com/blob/master/packages/website/package.json
+      - name: Build website
         run: |
-          cd packages/docs
+          cd packages/website
           yarn build
 
       # Compare https://github.com/peaceiris/actions-gh-pages
-      - name: Deploy Docs
+      - name: Deploy Website
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

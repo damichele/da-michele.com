@@ -57,7 +57,7 @@ module.exports = context => ({
     // repo: 'da-michele/da-michele.com',
     prefersTheme: { light: [7, 20], dark: [20, 7] },
     docsRepo: 'da-michele/da-michele.com',
-    docsDir: 'packages/docs',
+    docsDir: 'packages/website',
     editLinks: false,
     nextLinks: false,
     prevLinks: false,

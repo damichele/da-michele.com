@@ -13,7 +13,7 @@
     "bugs": {
         "url": "https://github.com/da-michele/da-michele.com/issues"
     },
-    "homepage": "https://github.com/da-michele/da-michele.com/tree/master/packages/docs/.vuepress/theme#readme",
+    "homepage": "https://github.com/da-michele/da-michele.com/tree/master/packages/website/.vuepress/theme#readme",
     "devDependencies": {
         "vuepress": "^1.8.2"
     }

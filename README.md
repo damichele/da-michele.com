@@ -32,7 +32,7 @@ For quick edits compare our repository structure:
 ```text
 .
 └─ packages
-   └─ docs                  # website content
+   └─ website               # website content
       ├─ .vuepress          # Vuepress config:      https://vuepress.vuejs.org/config/
       │  ├─ components      # components:           https://vuepress.vuejs.org/guide/using-vue.html#using-components
       │  └─ public
