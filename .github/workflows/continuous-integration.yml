@@ -1,4 +1,10 @@
 name: continuous-integration
+author: Vincenzo Romano
+description: >-
+  Test pull requests for errors with building website.
+branding:
+  icon: 'github'
+  color: 'gray-dark'
 
 on:
   pull_request:
@@ -8,18 +14,16 @@ on:
       - 'packages/website/**'
 
 jobs:
-  ci:
+
+  ci-website:
     runs-on: ubuntu-18.04
     steps:
-
       # Compare https://github.com/actions/checkout
       - name: Checkout
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-
-      # Compare `scripts.build` in
-      # https://github.com/da-michele/da-michele.com/blob/master/packages/website/package.json
+      # Compare https://github.com/da-michele/da-michele.com/blob/master/packages/website/package.json
       - name: Build website
         run: |
           cd packages/website

@@ -1,4 +1,11 @@
-name: continuous-deployment
+name: continuous-deployment-website
+author: Vincenzo Romano
+description: >-
+  This GitHub action deploys the website to GitHub Pages using a custom
+  cname domain.
+branding:
+  icon: 'upload-cloud'
+  color: 'blue'
 
 on:
   push:
@@ -8,23 +15,21 @@ on:
       - 'packages/website/**'
 
 jobs:
-  deploy:
+
+  deploy-website:
     runs-on: ubuntu-18.04
     steps:
-
       # Compare https://github.com/actions/checkout
       - name: Checkout
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-
       # Compare `scripts.build` in
       # https://github.com/da-michele/da-michele.com/blob/master/packages/website/package.json
       - name: Build website
         run: |
           cd packages/website
           yarn build
-
       # Compare https://github.com/peaceiris/actions-gh-pages
       - name: Deploy Website
         uses: peaceiris/actions-gh-pages@v3

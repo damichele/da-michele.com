@@ -1,4 +1,10 @@
 name: label-issues-new
+author: Vincenzo Romano
+description: >-
+  Apply a triage label to new issues.
+branding:
+  icon: 'plus-circle'
+  color: 'green'
 
 on:
   issues:
@@ -6,6 +12,7 @@ on:
       - opened
 
 jobs:
+
   label-issues-new:
     runs-on: ubuntu-latest
     steps:

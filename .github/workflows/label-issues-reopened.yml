@@ -1,10 +1,17 @@
 name: label-issues-reopened
+author: Vincenzo Romano
+description: >-
+  Apply a reopened label to reopened issues.
+branding:
+  icon: 'refresh-ccw'
+  color: 'green'
 
 on:
   issues:
     types: reopened
 
 jobs:
+
   label-issues-reopened:
     runs-on: ubuntu-latest
     steps:

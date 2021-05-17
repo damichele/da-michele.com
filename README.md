@@ -7,7 +7,7 @@
 
 | Workflow status | Test Output | Live Output |
 | --------------- | ----------- | ----------- |
-| [![continuous-deployment](https://github.com/da-michele/da-michele.com/workflows/continuous-deployment/badge.svg)](https://github.com/da-michele/da-michele.com/actions?query=workflow%3Acontinuous-deployment) | <https://da-michele.github.io/da-michele.com/> | <https://da-michele.com> |
+| [![continuous-deployment-website](https://github.com/da-michele/da-michele.com/workflows/continuous-deployment-website/badge.svg)](https://github.com/da-michele/da-michele.com/actions?query=workflow%3Acontinuous-deployment-website) | <https://da-michele.github.io/da-michele.com/> | <https://da-michele.com> |
 
 <!--
 | [![continuous-integration](https://github.com/da-michele/da-michele.com/workflows/continuous-integration/badge.svg?event=push) on `push`](https://github.com/da-michele/da-michele.com/actions?query=workflow%3Acontinuous-integration) | Test for dead links in `Markdown` documents |
