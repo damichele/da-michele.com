@@ -55,10 +55,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 12 €
 
-### Frittura
-
-13 €
-
 ### Parma ham with buffalo mozzarella
 
 13 €
@@ -100,14 +96,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ### Fried scallops with mashed peas
 
 16 €
-
-### Polpo fregula
-
-<img :src="$withBase('/food/antipasti/polpo_fregula.webp')" alt="Polpo fregula" loading="lazy">
-
-> octopus with sardinian pasta
-
-18 €
 
 ## Antipasti misti <Badge text="only via pre-order" type="warning"/>
 

@@ -56,7 +56,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 12 €
 
-
 ### Parmaschinken mit Büffelmozzarella
 
 13 €
