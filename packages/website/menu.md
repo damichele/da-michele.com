@@ -56,9 +56,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 12 €
 
-### Frittura
-
-13 €
 
 ### Parmaschinken mit Büffelmozzarella
 
@@ -101,14 +98,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### gebratene Jakobsmuscheln auf Kichererbsen-Püree
 
 16 €
-
-### Polpo fregula
-
-<img :src="$withBase('/food/antipasti/polpo_fregula.webp')" alt="Polpo fregula" loading="lazy">
-
-> Tintenfisch mit sardinischer Pasta
-
-18 €
 
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
