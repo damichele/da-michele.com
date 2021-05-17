@@ -7,11 +7,11 @@
 
 | Workflow status | Test Output | Live Output |
 | --------------- | ----------- | ----------- |
-| [![continuous-deployment-website](https://github.com/da-michele/da-michele.com/workflows/continuous-deployment-website/badge.svg)](https://github.com/da-michele/da-michele.com/actions?query=workflow%3Acontinuous-deployment-website) | <https://da-michele.github.io/da-michele.com/> | <https://da-michele.com> |
+| [![continuous-deployment-website](https://github.com/da-michele/da-michele.com/actions/workflows/cd-website.yml/badge.svg)](https://github.com/da-michele/da-michele.com/actions/workflows/cd-website.yml) | <https://da-michele.github.io/da-michele.com/> | <https://da-michele.com> |
 
-<!--
-| [![continuous-integration](https://github.com/da-michele/da-michele.com/workflows/continuous-integration/badge.svg?event=push) on `push`](https://github.com/da-michele/da-michele.com/actions?query=workflow%3Acontinuous-integration) | Test for dead links in `Markdown` documents |
--->
+| Workflow status | Description |
+| --------------- | ----------- |
+| [![continuous-integration](https://github.com/da-michele/da-michele.com/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/da-michele/da-michele.com/actions/workflows/continuous-integration.yml) | Test pull requests for errors during build. |
 
 ## Community health files ⚕️
 
