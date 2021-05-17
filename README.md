@@ -32,6 +32,11 @@ For quick edits compare our repository structure:
 ```text
 .
 └─ packages
+   ├─ printout              # files for creating the PDF for the physical printout of the menu
+   │  ├─ docs               # menu content
+   │  ├─ img                # image assets
+   │  ├─ templates          # latex templates for pdflatex output via crowbook
+   │  └─ .crowbook.yml      # crowbook config
    └─ website               # website content
       ├─ .vuepress          # Vuepress config:      https://vuepress.vuejs.org/config/
       │  ├─ components      # components:           https://vuepress.vuejs.org/guide/using-vue.html#using-components
