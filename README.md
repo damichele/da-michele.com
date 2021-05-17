@@ -7,7 +7,7 @@
 
 | Workflow status | Test Output | Live Output |
 | --------------- | ----------- | ----------- |
-| [![continuous-deployment-website](https://github.com/da-michele/da-michele.com/actions/workflows/cd-website.yml/badge.svg)](https://github.com/da-michele/da-michele.com/actions/workflows/cd-website.yml) | <https://da-michele.github.io/da-michele.com/> | <https://da-michele.com> |
+| [![continuous-deployment-website](https://github.com/da-michele/da-michele.com/actions/workflows/continuous-deployment-website.yml/badge.svg)](https://github.com/da-michele/da-michele.com/actions/workflows/continuous-deployment-website.yml) | <https://da-michele.github.io/da-michele.com/> | <https://da-michele.com> |
 
 | Workflow status | Description |
 | --------------- | ----------- |
