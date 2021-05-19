@@ -98,10 +98,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Polpo Pomodoro 
+### Polpo Pomodoro
+
+> Tintenfisch mit Tomaten
 
 16 €
-
 
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -122,7 +123,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Wolfsbarschfilet auf Ratatouille 
+### Wolfsbarschfilet auf Ratatouille
 
 21.50 €
 

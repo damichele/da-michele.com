@@ -97,6 +97,12 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
+### Polpo Pomodoro
+
+> octopus with tomatoes
+
+16 €
+
 ## Antipasti misti <Badge text="only via pre-order" type="warning"/>
 
 > Mixed starter plates
@@ -115,6 +121,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ## Pesce
 
 > Fish
+
+### Sea bass fillet on ratatouille
+
+21.50 €
 
 ### Grilled sepia
 
