@@ -44,8 +44,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Vorspeisen
 
-<FoodAntipasti/>
-
 ### Fenchel-Orangensalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 9 €
@@ -188,8 +186,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 ## Pasta
 
 > Pasta
-
-<FoodPasta/>
 
 ::: tip Hinweis
 Wir bieten auch glutenfreie Pasta an.

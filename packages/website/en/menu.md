@@ -43,8 +43,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Starters
 
-<FoodAntipasti/>
-
 ### Fennel and orange salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
 9 €
@@ -188,8 +186,6 @@ You only need to heat up the meal in your oven at home.
 ## Pasta
 
 > Pasta
-
-<FoodPasta/>
 
 ::: tip Tip
 We also serve gluten free pasta.
