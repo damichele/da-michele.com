@@ -1,229 +1,159 @@
-# Tageskarte
+### Antipasti
 
-> `19. Mai 2020`
-
-## Antipasti
-
-> Vorspeisen
-
-### Fenchel-Orangensalat
+###### Fenchel-Orangensalat
 
 9 €
 
-### Vitello tonnato
+###### Vitello tonnato
 
-> Kalbfleisch mit Thunfischsauce
-
+Kalbfleisch mit Thunfischsauce
 12 €
 
-### Parmaschinken mit Büffelmozzarella
+###### Parmaschinken mit Büffelmozzarella
 
 13 €
 
-### Burrata auf Caponata
+###### Burrata auf Caponata
 
-> cremiger Mozzarella auf geschmorten Auberginen und anderem Gemüse der Saison in einer frischen Tomatensauce
+cremiger Mozzarella auf geschmorten Auberginen und anderem Gemüse der Saison in einer frischen Tomatensauce
+14 €
+
+###### Parmigiana
 
 14 €
 
-### Parmigiana
-
-14 €
-
-### Spargelsalat mit Gambas
+###### Spargelsalat mit Gambas
 
 16 €
 
-### Calamaretti
+###### Calamaretti
 
-> kleine Tintenfische, Artischocken, Tomaten, Rucola
+kleine Tintenfische, Artischocken, Tomaten, Rucola
+16 €
+
+###### Lachsceviche
+
+mit einem Sud aus Zitrussaft
+16 €
+
+###### gebratene Jakobsmuscheln auf Kichererbsen-Püree
 
 16 €
 
-### Lachsceviche
+###### Polpo Pomodoro
 
-> mit einem Sud aus Zitrussaft
-
+Tintenfisch mit Tomaten
 16 €
 
-### gebratene Jakobsmuscheln auf Kichererbsen-Püree
+### Pesce
 
-16 €
-
-### Polpo Pomodoro
-
-> Tintenfisch mit Tomaten
-
-16 €
-
-## Antipasti misti
-
-> Gemischte Vorspeisenteller
-
-### Antipasti misti
-
-> Vitello tonnato, Carpaccio, Tomaten & Mozzarella, Parmaschinken, eingelegte Tomaten
-
-* nur [**auf telefonische Vorbestellung**](tel:+49722161541)
-* Preise auf Anfrage
-* Zutaten nach Verfügbarkeit
-* ab zwei Portionen
-
-## Pesce
-
-> Fisch
-
-### Wolfsbarschfilet auf Ratatouille
+###### Wolfsbarschfilet auf Ratatouille
 
 21.50 €
 
-### Sepia gegrillt
+###### Sepia gegrillt
 
-> Tintenfisch
+Tintenfisch
+21.50 €
+
+###### Schwertfisch gegrillt
 
 21.50 €
 
-### Schwertfisch gegrillt
-
-21.50 €
-
-### Kabeljau im Sud
+###### Kabeljau im Sud
 
 23.50 €
 
-## Pesci Interi
+### Carne
 
-> ganze Fische
-
-**Wir bieten ganze, frische Fische an, zur Zeit sind dies Wolfsbarsch, Dorade sowie Steinbutt**.
-
-Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofen schieben musst.
-
-* nur [**auf telefonische Vorbestellung**](tel:+49722161541)
-* Preise auf Anfrage
-* Zutaten nach Verfügbarkeit
-
-## Carne
-
-> Fleisch
-
-### Kalbsleber alla Veneziana
+###### Kalbsleber alla Veneziana
 
 16 €
 
-### Kalbsmedallions in Weißweinsauce
+###### Kalbsmedallions in Weißweinsauce
 
 19.50 €
 
-### Tagliata vom Dry Aged Black Angus
+###### Tagliata vom Dry Aged Black Angus
 
-> Rind auf Rucola mit Tomaten & Parmesan
-
+Rind auf Rucola mit Tomaten & Parmesan
 25 €
 
-### Kalbskarrée mit Taleggio und Trüffel
+###### Kalbskarrée mit Taleggio und Trüffel
 
-> ital. Rohmilchkäse
-
+ital. Rohmilchkäse
 25 €
 
-## Pasta
+### Pasta
 
-> Pasta
-
-**Wir bieten auch glutenfreie Pasta an.**
-
-### Pasta Gemüse
+###### Pasta Gemüse
 
 12 €
 
-### Spaghetti Bolognese
+###### Spaghetti Bolognese
 
 12 €
 
-### Pasta Lachs und Spinat
+###### Pasta Lachs und Spinat
 
 14 €
 
-### Gnocchi Gambas und Spargel
+###### Gnocchi Gambas und Spargel
 
 16 €
 
-### Pasta Salsiccia, Trüffel
+###### Pasta Salsiccia, Trüffel
 
-> ital. Frischwurst
-
+ital. Frischwurst
 16 €
 
-### Tagliatelle Trüffel
+###### Tagliatelle Trüffel
 
 18 €
 
-## Pizze
+### Pizze
 
-> Pizzen
+###### Pizza alle Verdure
 
-**Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.**
-
-### Pizza alle Verdure
-
-> Gemüse, Gorgonzola
-
+Gemüse, Gorgonzola
 11 €
 
-### Pizza Spargel, Taleggio , Tomaten
+###### Pizza Spargel, Taleggio , Tomaten
 
-> ital. Rohmilchkäse
-
+ital. Rohmilchkäse
 13 €
 
-### Pizza Salsiccia, Brokkoli
+###### Pizza Salsiccia, Brokkoli
 
-> ital. Frischwurst
-
+ital. Frischwurst
 13 €
 
-### Pizza Parma
+###### Pizza Parma
 
-> Parmaschinken, Parmesan, Rucola
-
+Parmaschinken, Parmesan, Rucola
 13 €
 
-### Pizza Taleggio, Patate e Spinaci
+###### Pizza Taleggio, Patate e Spinaci
 
-> ital. Rohmilchkäse, Kartoffeln, Spinat
-
+ital. Rohmilchkäse, Kartoffeln, Spinat
 13 €
 
-### Pizza Caprese
+###### Pizza Caprese
 
-> Büffel Mozzarella, Tomaten
-
+Büffel Mozzarella, Tomaten
 14 €
 
-### Pizza Vulcano
+###### Pizza Vulcano
 
-> Parmaschinken, Mozzarella (cremiger Mozzarella)
-
+Parmaschinken, Mozzarella (cremiger Mozzarella)
 16 €
 
-## Dolci
+### Dolci
 
-> Nachtisch
-
-### Tiramisu
+###### Tiramisu
 
 5 €
 
-### Calzone nutella
+###### Calzone nutella
 
 6 €
-
-## Olio d'Oliva
-
-> Olivenöl
-
-### Olivenöl aus Eigenproduktion
-
-* 12 € pro 0.5 L Flasche
-* 20 € pro 1.0 L Flasche
