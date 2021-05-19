@@ -2,17 +2,20 @@ BEGIN:VCARD
 VERSION:3.0
 N:Romano;Pierina;;;
 FN:Pierina Romano
+X-PHONETIC-LASST-NAME:Roˈmaːno
 ORG:Ristorante da Michele;Service
 TITLE:Chef
 TEL;TYPE=work,voice,pref:+49722161541
 EMAIL;TYPE=work,internet,pref:info@da-michele.com
 ADR;TYPE=work,pref:;;Sinzheimerstr. 4;Baden-Baden;;76532;Deutschland
 URL;TYPE=work,pref:https://da-michele.com
+SOURCE:https://da-michele.com/en/vcards/Pierina_Romano.vcf
 X-SOCIALPROFILE;TYPE=WhatsApp:https://wa.me/491772881228
 X-SOCIALPROFILE;TYPE=Facebook:https://www.facebook.com/pages/category/Italian-Restaurant/Pizzeria-Da-Michele-2293017134358842/
 X-SOCIALPROFILE;TYPE=Instagram:https://www.instagram.com/da_michele_badenbaden/
 item1.TEL;TYPE=cell,voice:+491772881228
 item1.X-LABEL:WhatsApp
+REV:2021-05-19T13:15:00Z
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQEASABIAAD/4QCgRXhpZgAATU0AKgAA
  AAgABQEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAAEyAAIAAAAUAAAAWodpAA
  QAAAABAAAAbgAAAAAAAABIAAAAAQAAAEgAAAABMjAyMDowNjowOCAyMTo1OTowOAAAA6ABAAMA
