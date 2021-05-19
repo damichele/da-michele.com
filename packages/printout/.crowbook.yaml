@@ -3,17 +3,17 @@ author: Vincenzo Romano
 title: Menu
 subtitle: Da Michele Baden-Baden
 description: >-
-  Documentation for Sublime Merge and Sublime Text
-lang: en
-version: 0.20210512.0
-date: 2021-05-12
+  Tageskarte von heute
+lang: de
+version: 0.20210519.0
+date: 2021-05-19
 license: >-
   Copyright © 2021 Ristorante Da Michele, Baden-Baden. All rights reserved.
 
 output:
   - pdf
-output.pdf: da-michele.en.pdf
-output.base_path: 'docs/'
+output.pdf: da-michele_menu.pdf
+output.base_path: '../../docs/'
 
 resources.base_path.images: 'img/'
 
@@ -21,7 +21,7 @@ crowbook.markdown.superscript: true
 
 rendering.num_depth: 4
 rendering.initials: false
-rendering.inline_toc: true
+rendering.inline_toc: false
 rendering.chapter.template: "{{{number}}}. {{{chapter_title}}}"
 rendering.chapter.roman_numerals: false
 rendering.part.reset_counter: true
@@ -29,12 +29,10 @@ rendering.highlight: syntect
 # rendering.highlight.theme: Solarized (light)
 
 # tex.command: pdflatex
-tex.class: book
-tex.links_as_footnotes: true
-tex.paper.size: letterpaper
+tex.class: article
+tex.links_as_footnotes: false
+tex.paper.size: a4paper
 tex.highlight.theme: Solarized (light)
 tex.template: 'templates/latex/template.tex'
 
-+ docs/README.md
--- ../website/menu.md
--- ../website/en/menu.md
+- docs/README.md

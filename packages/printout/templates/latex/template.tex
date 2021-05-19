@@ -1,0 +1,285 @@
+% !TEX program = crowbook
+
+{{=<< >>=}} % Use <<&foo>> to include (non HTML-escape) variable foo instead of {{{foo}}}
+\documentclass<<#has_tex_size>>[<<&tex_size>>pt]<</has_tex_size>>{<<&class>>}
+
+<<#xelatex>>
+\usepackage{fontspec}
+\usepackage{xunicode}
+<</xelatex>>
+<<^xelatex>>
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\usepackage{newunicodechar}
+\newunicodechar{ }{ }
+\newunicodechar{°}{$^{\circ}$}
+\setlength\emergencystretch{.5\textwidth}
+<</xelatex>>
+
+\usepackage[<<&tex_lang>>]{babel}
+\usepackage{fancyhdr}
+
+\usepackage[htt]{hyphenat}
+
+\usepackage[
+  usenames,
+  dvipsnames,
+  svgnames
+]{xcolor}
+\pagecolor{Gray!10}
+
+<<#use_strikethrough>>
+\usepackage[normalem]{ulem}
+<</use_strikethrough>>
+<<#use_taskitem>>
+\usepackage{amssymb}
+<</use_taskitem>>
+<<#use_url>>
+\usepackage[
+  backref=page,
+  bookmarks=true,
+  bookmarksdepth=subsection,
+  bookmarksnumbered=false,
+  bookmarksopen=true,
+  breaklinks=true,
+  citecolor=Black,
+  colorlinks=true,
+  filecolor=NavyBlue,
+  hyperindex=true,
+  hyperfootnotes=true,
+  hypertexnames=false,
+  linkcolor=NavyBlue,
+  pagebackref=true,
+  <<#has_author>>pdfauthor={<<&author>>},<</has_author>>
+  pdfcreator={crowbook},
+  pdfdisplaydoctitle=true,
+  pdfencoding=auto,
+  pdffitwindow=false,
+  pdflang=<<&tex_lang>>,
+  pdfmenubar=true,
+  pdfnewwindow=true,
+  pdfpagemode=UseOutlines,
+  pdfpagelayout=TwoColumnRight,
+  pdfstartview={FitV},
+  <<#has_subtitle>>pdfsubject={<<&subtitle>>},<</has_subtitle>>
+  <<#has_title>>pdftitle={<<&title>>},<</has_title>>
+  pdftoolbar=true,
+  unicode=true,
+  urlcolor=NavyBlue
+]{hyperref}
+<<^xelatex>>
+\usepackage[anythingbreaks]{breakurl}
+<</xelatex>>
+<</use_url>>
+
+<<#initials>>
+\usepackage{lettrine}
+<</initials>>
+
+<<#stdpage>>
+\usepackage[<<&papersize>>]{geometry}
+\usepackage[
+  hyphen=false,
+  parskip
+]{stdpage}
+<</stdpage>>
+<<^stdpage>>
+\usepackage[
+  <<&papersize>>,
+  top=<<&margin_top>>,
+  bottom=<<&margin_bottom>>,
+  left=<<&margin_left>>,
+  right=<<&margin_right>>
+]{geometry}
+<</stdpage>>
+
+
+\makeatletter
+\date{<<&date>>}
+
+<<^stdpage>>
+<<#book>>
+\renewcommand{\maketitle}{
+  \thispagestyle{empty}
+  \vspace*{\stretch{1}}
+
+  \begin{center}
+    {\Huge \@title   \\[5mm]}
+  \end{center}
+  \vspace*{\stretch{2}}
+
+  \newpage
+  \thispagestyle{empty}
+  \cleardoublepage
+
+  \begin{center}
+    \thispagestyle{empty}
+    \vspace*{\baselineskip}
+    \rule{\textwidth}{1.6pt}\vspace*{-\baselineskip}\vspace*{2pt}
+    \rule{\textwidth}{0.4pt}\\[\baselineskip]
+
+    {\Huge\scshape \@title   \\[5mm]}
+    {\Large <<&subtitle>>}
+
+    \rule{\textwidth}{0.4pt}\vspace*{-\baselineskip}\vspace{3.2pt}
+    \rule{\textwidth}{1.6pt}\\[\baselineskip]
+
+    \vspace*{4\baselineskip}
+
+    {\Large \@author}
+    <<#has_autograph>>
+
+    \vspace*{10\baselineskip}
+
+    <<&autograph>>
+    <</has_autograph>>
+    \vfill
+    <<#has_date>>\@date<</has_date>>
+  \end{center}
+
+  \pagebreak
+  \newpage
+  \thispagestyle{empty}
+  \null\vfill
+  \noindent
+  \begin{center}
+    {\emph{\@title}<<#has_version>>{, <<&version>>}<</has_version>><<#has_author>>, © \@author<</has_author>>.\\[5mm]}
+    <<#has_license>>{<<&license>>\\[5mm]}<</has_license>>
+  \end{center}
+  \pagebreak
+  \newpage
+}
+<</book>>
+
+% TODO: make sure gitinfo2 works with qrcode in fancyfooter
+
+% \usepackage{qrcode}
+% \usepackage[
+%   grumpy,
+%   local,
+%   mark
+% ]{gitinfo2}
+
+% \renewcommand{\gitMarkFormat}{\color{gray}\scriptsize\ttfamily}
+% \renewcommand{\gitWrapEmail}[1]{\href{mailto:#1?Subject=Sublime\%20Text\%20-\%20Documentation\%20\gitAbbrevHash}{#1}}
+% \renewcommand{\gitMark}{\href{https://github.com/sublimehq/docs/tree/\gitBranch}{\gitBranch}@\href{https://github.com/sublimehq/docs/commit/\gitHash}{\gitAbbrevHash} (\gitFirstTagDescribe)}
+
+
+\pagestyle{fancy}
+<<#book>>
+\renewcommand{\chaptermark}[1]{\markboth{\sffamily\normalsize\bfseries\thechapter.\ #1}{}}
+<</book>>
+\renewcommand{\sectionmark}[1]{\markright{\sffamily\normalsize\thesection.\ #1}{}}
+\fancyhf{}
+\fancyhead[LE,RO]{\sffamily\normalsize\thepage}
+\fancyhead[LO]{\rightmark}
+\fancyhead[RE]{\leftmark}
+\renewcommand{\headrulewidth}{0.5pt}
+\addtolength{\headheight}{2.5pt}
+\renewcommand{\footrulewidth}{0.5pt}
+% \fancyfoot[CE,CO]{\gitMark}
+\fancyfoot[CE,CO]{<<&title>> <<&subtitle>>, Version: <<&version>>, Date: <<&date>>}
+\fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}}
+
+<</stdpage>>
+
+\newcommand\mdstrong[1]{\textbf{#1}}
+
+
+% TODO: use soul to highlight bg for inline code without breaking when used with md input
+
+\newcommand\mdcode[1]{\texttt{\color{Red!33!Black} #1}}
+
+\newcommand\mdrule{
+  \nopagebreak
+  {\vskip 1em}
+  \nopagebreak
+  \begin{center}
+    ***
+  \end{center}
+  \nopagebreak
+ {\vskip 1em}
+ \nopagebreak
+}
+
+\newcommand\mdhardbreak{\\}
+
+\newenvironment{mdblockquote}{
+  \begin{quotation}
+    \itshape
+}{
+  \end{quotation}
+}
+
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1em}
+
+<<#use_codeblocks>>
+\usepackage{spverbatim}
+\usepackage{color}
+\usepackage[
+  topline=false,
+  rightline=false,
+  bottomline=false]{mdframed}
+
+\newenvironment{mdcodeblock}{
+  \begin{mdframed}
+}{
+  \end{mdframed}
+}
+<</use_codeblocks>>
+
+<<#use_images>>
+\usepackage{graphicx}
+
+\newcommand\mdstandaloneimage[1]{
+  \begin{center}
+    \includegraphics[width=0.8\linewidth]{#1}
+  \end{center}
+}
+
+\newcommand\mdimage[1]{\includegraphics{#1}}
+<</use_images>>
+
+<<#use_tables>>
+\usepackage{tabularx}
+
+
+\newenvironment{mdtable}[1]{
+  \center
+  \tabularx{\textwidth}{#1}
+  \hline
+}{
+  \endtabularx
+  \endcenter
+}
+<</use_tables>>
+
+<<&additional_code>>
+
+\makeatother
+
+\title{<<&title>>}
+\author{<<&author>>}
+
+\begin{document}
+
+<<#chapter_name>>
+\makeatletter
+\renewcommand{\@chapapp}{<<&chapter_name>>}
+\makeatother
+<</chapter_name>>
+
+<<#part_name>>
+\renewcommand{\partname}{<<&part_name>>}
+<</part_name>>
+
+
+<<#tex_title>>
+\maketitle
+<</tex_title>>
+
+<<&content>>
+
+\end{document}
