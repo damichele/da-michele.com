@@ -161,6 +161,10 @@ You only need to heat up the meal in your oven at home.
 
 > Meat
 
+### Calf liver alla Veneziana
+
+16 €
+
 ### Veal medallions in white wine sauce
 
 19.50 €

@@ -161,13 +161,13 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 > Fleisch
 
+### Kalbsleber alla Veneziana
+
+16 €
+
 ### Kalbsmedallions in Weißweinsauce
 
 19.50 €
-
-### Kalbsleber alla Veneziana 
-
-16 €
 
 ### Tagliata vom Dry Aged Black Angus
 
