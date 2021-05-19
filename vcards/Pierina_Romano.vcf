@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Romano;Pierina;;;
 FN:Pierina Romano
-X-PHONETIC-LASST-NAME:Roˈmaːno
+X-PHONETIC-LAST-NAME:Roˈmaːno
 ORG:Ristorante da Michele;Service
 TITLE:Chefin
 TEL;TYPE=work,voice,pref:+49722161541
