@@ -98,6 +98,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
+### Polpo Pomodoro 
+
+16 €
+
+
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
 > Gemischte Vorspeisenteller
@@ -116,6 +121,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ## Pesce
 
 > Fisch
+
+### Wolfsbarschfilet auf Ratatouille 
+
+21.50 €
 
 ### Sepia gegrillt
 
