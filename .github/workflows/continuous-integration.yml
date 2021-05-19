@@ -1,10 +1,4 @@
 name: continuous-integration
-author: Vincenzo Romano
-description: >-
-  Test pull requests for errors with building website.
-branding:
-  icon: 'github'
-  color: 'gray-dark'
 
 on:
   pull_request:

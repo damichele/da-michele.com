@@ -1,11 +1,4 @@
 name: continuous-deployment-website
-author: Vincenzo Romano
-description: >-
-  This GitHub action deploys the website to GitHub Pages using a custom
-  cname domain.
-branding:
-  icon: 'upload-cloud'
-  color: 'blue'
 
 on:
   push:

@@ -1,10 +1,4 @@
 name: label-issues-reopened
-author: Vincenzo Romano
-description: >-
-  Apply a reopened label to reopened issues.
-branding:
-  icon: 'refresh-ccw'
-  color: 'green'
 
 on:
   issues:

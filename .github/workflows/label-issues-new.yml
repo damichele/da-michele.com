@@ -1,10 +1,4 @@
 name: label-issues-new
-author: Vincenzo Romano
-description: >-
-  Apply a triage label to new issues.
-branding:
-  icon: 'plus-circle'
-  color: 'green'
 
 on:
   issues:
