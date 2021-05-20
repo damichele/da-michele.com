@@ -1,11 +1,14 @@
 % !TEX program = crowbook
 
 {{=<< >>=}} % Use <<&foo>> to include (non HTML-escape) variable foo instead of {{{foo}}}
-\documentclass[landscape<<#has_tex_size>>,<<&tex_size>>pt<</has_tex_size>>]{<<&class>>}
+\documentclass[
+  landscape<<#has_tex_size>>,
+  <<&tex_size>>pt<</has_tex_size>>
+]{<<&class>>}
 
 \usepackage{multicol}
-\columnsep=12.5pt
-\columnseprule=1pt
+\columnsep=25pt
+\columnseprule=3pt
 
 <<#xelatex>>
 \usepackage{fontspec}
@@ -199,7 +202,7 @@
 \maketitle
 <</tex_title>>
 
-\thispagestyle{empty}
+\pagestyle{empty}
 
 \begin{multicols}{2}
 <<&content>>

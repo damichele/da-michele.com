@@ -29,7 +29,7 @@ rendering.highlight: syntect
 # rendering.highlight.theme: Solarized (light)
 
 # tex.command: pdflatex
-tex.class: article
+tex.class: scrartcl
 tex.title: false
 tex.links_as_footnotes: false
 tex.paper.size: a4paper
