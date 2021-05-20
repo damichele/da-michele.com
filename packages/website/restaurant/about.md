@@ -18,13 +18,13 @@ meta:
 
 | Wochentag  | Mittags                                                             | Abends                                                              |
 | ---------- |:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| Montag     | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="20">20</time> |
+| Montag     | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
 | Dienstag   | Geschlossen                                                         | Geschlossen                                                         |
-| Mittwoch   | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="20">20</time> |
-| Donnerstag | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="20">20</time> |
-| Freitag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="20">20</time> |
-| Samstag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="20">20</time> |
-| Sonntag    | Geschlossen                                                         | <time datetime="17:30">17:30</time> - <time datetime="20">20</time> |
+| Mittwoch   | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
+| Donnerstag | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
+| Freitag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
+| Samstag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
+| Sonntag    | Geschlossen                                                         | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
 
 ## Team
 

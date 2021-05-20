@@ -18,13 +18,13 @@ meta:
 
 | Weekday   | Noon                                                                   | Evening                                                               |
 | --------- |:----------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-| Monday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="20">8pm</time> |
+| Monday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
 | Tuesday   | Closed                                                                 | Closed                                                                |
-| Wednesday | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="20">8pm</time> |
-| Thursday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="20">8pm</time> |
-| Friday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="20">8pm</time> |
-| Saturday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="20">8pm</time> |
-| Sunday    | Closed                                                                 | <time datetime="17:30">5:30pm</time> - <time datetime="20">8pm</time> |
+| Wednesday | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
+| Thursday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
+| Friday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
+| Saturday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
+| Sunday    | Closed                                                                 | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
 
 ## Team
 
