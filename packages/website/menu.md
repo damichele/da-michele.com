@@ -46,6 +46,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Fenchel-Orangensalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
+<img :src="$withBase('/food/antipasti/insalata_di_aranche.webp')" alt="Insalata di Aranche" loading="lazy">
+
 9 €
 
 ### Vitello tonnato
@@ -67,6 +69,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 14 €
 
 ### Parmigiana
+
+<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
 
 14 €
 
@@ -238,6 +242,8 @@ Wir bieten auch glutenfreie Pasta an.
 16 €
 
 ### Paccheri Pesto, Burrata
+
+<img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta Pesto Burrata" loading="lazy">
 
 > cremiger Mozzarella
 

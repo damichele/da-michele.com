@@ -45,6 +45,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Fennel and orange salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
+<img :src="$withBase('/food/antipasti/insalata_di_aranche.webp')" alt="Insalata di Aranche" loading="lazy">
+
 9 €
 
 ### Vitello tonnato
@@ -58,6 +60,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 13 €
 
 ### Parmigiana
+
+<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
 
 14 €
 
@@ -238,6 +242,8 @@ We also serve gluten free pasta.
 16 €
 
 ### Paccheri Pesto, Burrata
+
+<img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta Pesto Burrata" loading="lazy">
 
 > creamy mozzarella-cheese
 
