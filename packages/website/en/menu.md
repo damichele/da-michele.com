@@ -45,7 +45,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Fennel and orange salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
-<img :src="$withBase('/food/antipasti/insalata_di_aranche.webp')" alt="Insalata di Aranche" loading="lazy">
+<img :src="$withBase('/food/antipasti/insalata_di_arance.webp')" alt="Insalata di Arance" loading="lazy">
 
 9 €
 
