@@ -70,6 +70,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
+### Frittura
+
+14 €
+
 ### Spargelsalat mit Gambas
 
 <img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Spargelsalat mit Gambas" loading="lazy">
@@ -121,6 +125,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
+### Doradenfilet gegrillt
+
+21 €
+
 ### Wolfsbarschfilet auf Ratatouille
 
 21.50 €
@@ -131,15 +139,21 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 21.50 €
 
-### Schwertfisch gegrillt
+### Schwertfisch
 
-21.50 €
+23 €
 
 ### Kabeljau im Sud
 
 <img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Kabeljau im Sud" loading="lazy">
 
 23.50 €
+
+### Thuna tagliata
+
+> Scheibe vom rohen Thunfisch
+
+25 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -167,14 +181,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 19.50 €
 
-### Tagliata vom Dry Aged Black Angus
-
-<img :src="$withBase('/food/carne/tagliata.webp')" alt="Tagliata" loading="lazy">
-
-> Rind auf Rucola mit Tomaten & Parmesan
-
-25 €
-
 ### Kalbskarrée mit Taleggio und Trüffel
 
 <img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Kalbskarrée mit Taleggio und Trüffel" loading="lazy">
@@ -182,6 +188,14 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 > ital. Rohmilchkäse
 
 25 €
+
+### Tagliata vom Dry Aged Black Angus
+
+<img :src="$withBase('/food/carne/tagliata.webp')" alt="Tagliata" loading="lazy">
+
+> Rind auf Rucola mit Tomaten & Parmesan
+
+29 €
 
 ## Pasta
 
@@ -214,6 +228,18 @@ Wir bieten auch glutenfreie Pasta an.
 <img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta mit Salsiccia und Trüffel" loading="lazy">
 
 > ital. Frischwurst
+
+16 €
+
+### Spaghetti Polpo
+
+> Tintenfisch
+
+16 €
+
+### Paccheri Pesto, Burrata
+
+> cremiger Mozzarella
 
 16 €
 

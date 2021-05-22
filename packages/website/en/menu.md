@@ -61,6 +61,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 14 €
 
+### Frittura
+
+14 €
+
 ### Burrata auf Caponata <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata with Zucchini and Asparagus" loading="lazy">
@@ -120,6 +124,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Fish
 
+### Griled sea bream fillet
+
+21 €
+
 ### Sea bass fillet on ratatouille
 
 21.50 €
@@ -130,15 +138,21 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 21.50 €
 
-### Grilled swordfish
+### Swordfish
 
-21.50 €
+23 €
 
 ### Cod in a broth
 
 <img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Cod in a broth" loading="lazy">
 
 23.50 €
+
+### Thuna tagliata
+
+> raw cut thuna
+
+25 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -167,14 +181,6 @@ You only need to heat up the meal in your oven at home.
 
 19.50 €
 
-### Dry Aged Black Angus Tagliata
-
-<img :src="$withBase('/food/carne/tagliata.webp')" alt="Tagliata" loading="lazy">
-
-> Beef on rucola salad with tomatoes & parmesan cheese
-
-25 €
-
 ### Veal carrée with Taleggio cheese and Truffles
 
 <img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Veal carrée with Taleggio cheese and Truffles" loading="lazy">
@@ -182,6 +188,14 @@ You only need to heat up the meal in your oven at home.
 > Italian raw milk cheese
 
 25 €
+
+### Dry Aged Black Angus Tagliata
+
+<img :src="$withBase('/food/carne/tagliata.webp')" alt="Tagliata" loading="lazy">
+
+> Beef on rucola salad with tomatoes & parmesan cheese
+
+29 €
 
 ## Pasta
 
@@ -214,6 +228,18 @@ We also serve gluten free pasta.
 <img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta with Salsiccia and Truffles" loading="lazy">
 
 > Italian raw meat sausage
+
+16 €
+
+### Spaghetti Polpo
+
+> octopus
+
+16 €
+
+### Paccheri Pesto, Burrata
+
+> creamy mozzarella-cheese
 
 16 €
 
