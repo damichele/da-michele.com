@@ -134,7 +134,15 @@
 }
 
 \setlength{\parindent}{0em}
-\setlength{\parskip}{1em}
+\setlength{\parskip}{0em}
+
+\RedeclareSectionCommands[
+  beforeskip=-1.5\baselineskip,
+  afterskip=.5\baselineskip
+]{section,subsection,subsubsection}
+\RedeclareSectionCommands[
+  beforeskip=.5\baselineskip,
+  afterskip=-1em]{paragraph,subparagraph}
 
 <<#use_codeblocks>>
 \usepackage{spverbatim}
