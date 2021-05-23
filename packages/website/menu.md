@@ -78,12 +78,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Spargelsalat mit Gambas
-
-<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Spargelsalat mit Gambas" loading="lazy">
-
-16 €
-
 ### Calamaretti
 
 <img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
@@ -97,10 +91,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 <img :src="$withBase('/food/antipasti/ceviche_di_salmone.webp')" alt="Lachsceviche" loading="lazy">
 
 > mit einem Sud aus Zitrussaft
-
-16 €
-
-### gebratene Jakobsmuscheln auf Kichererbsen-Püree
 
 16 €
 
@@ -132,16 +122,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Doradenfilet gegrillt
 
 21 €
-
-### Wolfsbarschfilet auf Ratatouille
-
-21.50 €
-
-### Sepia gegrillt
-
-> Tintenfisch
-
-21.50 €
 
 ### Schwertfisch
 
@@ -213,19 +193,13 @@ Wir bieten auch glutenfreie Pasta an.
 
 12 €
 
-### Spaghetti Bolognese
-
-12 €
-
 ### Pasta Lachs und Spinat
 
 14 €
 
-### Gnocchi Gambas und Spargel
+### Gnocchi Sorentina 
 
-<img :src="$withBase('/food/pasta/gnocchi_gambas.webp')" alt="Gnocchi Gambas" loading="lazy">
-
-16 €
+12 €
 
 ### Pasta Salsiccia, Trüffel
 
