@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-22
+date: 2021-05-23
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-22
+    content: 2021-05-23
 ---
 
 # Menu
@@ -77,12 +77,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 14 €
 
-### Asparagus salad with Gambas
-
-<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Asparagus salad with Gambas" loading="lazy">
-
-16 €
-
 ### Calamaretti
 
 <img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
@@ -96,10 +90,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/antipasti/ceviche_di_salmone.webp')" alt="Salmon ceviche" loading="lazy">
 
 > with a brew of citrus juice
-
-16 €
-
-### Fried scallops with mashed peas
 
 16 €
 
@@ -131,16 +121,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ### Griled sea bream fillet
 
 21 €
-
-### Sea bass fillet on ratatouille
-
-21.50 €
-
-### Grilled sepia
-
-> squid
-
-21.50 €
 
 ### Swordfish
 
@@ -213,19 +193,13 @@ We also serve gluten free pasta.
 
 12 €
 
-### Spaghetti Bolognese
+### Gnocchi Sorentina
 
 12 €
 
 ### Pasta Salmon and Spinach
 
 14 €
-
-### Gnocchi with Gambas and Asparagus
-
-<img :src="$withBase('/food/pasta/gnocchi_gambas.webp')" alt="Gnocchi Gambas" loading="lazy">
-
-16 €
 
 ### Pasta Salsiccia, Truffles
 
