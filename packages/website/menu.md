@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-05-24
+date: 2021-05-25
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,14 +30,15 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-24
+    content: 2021-05-25
 ---
 
 # Menü
 
 <SvgHero/>
 
-Wir nehmen Deine Bestellwünsche gerne [telefonisch](tel:+49722161541) oder [per WhatsApp](https://wa.me/491772881228?text=Hallo%20Pierina,%20wir%20w%C3%BCrden%20gerne%20bei%20euch%20Folgendes%20bestellen) entgegen.
+**Wir nehmen Deine Bestellwünsche gerne [telefonisch](tel:+49722161541) oder [per WhatsApp](https://wa.me/491772881228?text=Hallo%20Pierina,%20wir%20w%C3%BCrden%20gerne%20bei%20euch%20Folgendes%20bestellen) entgegen.**
+
 Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghetti Carbonara, … gibt es heute:
 
 ## Antipasti

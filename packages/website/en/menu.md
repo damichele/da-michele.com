@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-24
+date: 2021-05-25
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,14 +29,15 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-24
+    content: 2021-05-25
 ---
 
 # Menu
 
 <SvgHero/>
 
-Please [call us](tel:+49722161541) or [send us a WhatsApp message](https://wa.me/491772881228?text=Hello%20Pierina,%20we%20would%20like%20to%20order%20the%20following) to place an order.
+**Please [call us](tel:+49722161541) or [send us a WhatsApp message](https://wa.me/491772881228?text=Hello%20Pierina,%20we%20would%20like%20to%20order%20the%20following) to place an order.**
+
 Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghetti Carbonara … as well as:
 
 ## Antipasti
