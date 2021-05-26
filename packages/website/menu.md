@@ -266,14 +266,6 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 13 €
 
-### Pizza Taleggio, Patate e Spinaci
-
-<img :src="$withBase('/food/pizze/pizza_taleggio_patate_spinaci.webp')" alt="Pizza Taleggio, Patate e Spinaci" loading="lazy">
-
-> ital. Rohmilchkäse, Kartoffeln, Spinat
-
-13 €
-
 ### Pizza Caprese <Badge text="vegetarisch"/>
 
 > Büffel Mozzarella, Tomaten
