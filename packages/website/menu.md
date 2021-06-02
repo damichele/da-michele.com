@@ -45,7 +45,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Vorspeisen
 
-### Fenchel-Orangensalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
+### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 <img :src="$withBase('/food/antipasti/insalata_di_arance.webp')" alt="Insalata di Arance" loading="lazy">
 
@@ -61,7 +61,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Burrata auf Caponata <Badge text="vegetarisch"/>
+### Burrata, Tomaten, Zucchini <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata mit Zucchini und Spargel" loading="lazy">
 
@@ -78,6 +78,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Frittura
 
 14 €
+
+### Kalbsbries, Pfifferlinge, Spargel 
+
+18 €
 
 ### Calamaretti
 
@@ -128,15 +132,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Kabeljau im Sud
-
-<img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Kabeljau im Sud" loading="lazy">
-
-23.50 €
-
-### Thuna tagliata
-
-> Scheibe vom rohen Thunfisch
+### Thunfisch steak auf Rucola
 
 25 €
 
@@ -216,7 +212,11 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Paccheri Pesto, Burrata
+### Spaghetti Cozze
+
+14 €
+
+### Calamarata Pesto, Burrata
 
 <img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta Pesto Burrata" loading="lazy">
 
