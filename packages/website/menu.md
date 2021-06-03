@@ -242,7 +242,7 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 > Gemüse, Gorgonzola
 
-11 €
+12 €
 
 ### Pizza Spargel, Taleggio , Tomaten <Badge text="vegetarisch"/>
 
