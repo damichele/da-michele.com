@@ -50,6 +50,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Fried artichokes
 
+<img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Fried artichokes" loading="lazy">
+
 12 €
 
 ### Vitello tonnato

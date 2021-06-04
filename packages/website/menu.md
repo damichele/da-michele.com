@@ -51,6 +51,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### gebratene Artischocken
 
+<img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Gebratene Artischocken" loading="lazy">
+
 12 €
 
 ### Vitello tonnato
