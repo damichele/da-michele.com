@@ -48,7 +48,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 9 €
 
-### Fried artichokes
+### Fried artichokes <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Fried artichokes" loading="lazy">
 
@@ -72,7 +72,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 14 €
 
-### Parmigiana
+### Parmigiana <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
 
@@ -198,7 +198,9 @@ We also serve gluten free pasta.
 
 12 €
 
-### Gnocchi Sorentina
+### Gnocchi Sorrentina
+
+> with cocktail tomatoes and fresh basil
 
 12 €
 

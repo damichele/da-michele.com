@@ -49,7 +49,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
-### gebratene Artischocken
+### gebratene Artischocken <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Gebratene Artischocken" loading="lazy">
 
@@ -73,7 +73,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Parmigiana
+### Parmigiana <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
 
@@ -196,7 +196,9 @@ Wir bieten auch glutenfreie Pasta an.
 
 12 €
 
-### Gnocchi Sorentina
+### Gnocchi Sorrentina
+
+> mit Cocktail-Tomaten und frischem Basilikum
 
 12 €
 
