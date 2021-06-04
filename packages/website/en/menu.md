@@ -66,7 +66,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Burrata, Tomatoes, Zucchini <Badge text="vegetarian"/>
 
-<img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata with Zucchini and Asparagus" loading="lazy">
+<img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes and Zucchini" loading="lazy">
 
 > creamy mozzarella cheese on braised eggplant and other seasonal vegetables in a fresh tomato sauce
 
@@ -207,6 +207,8 @@ We also serve gluten free pasta.
 14 €
 
 ### Spaghetti Vongole
+
+<img :src="$withBase('/food/pasta/spaghetti_vongole.webp')" alt="Spaghetti Vongole" loading="lazy">
 
 > with clams
 
