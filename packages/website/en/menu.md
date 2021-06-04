@@ -129,7 +129,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Fish
 
-### Griled sea bream fillet
+### Grilled sea bream fillet
 
 21 €
 
