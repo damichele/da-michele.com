@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-05-26
+date: 2021-06-04
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-26
+    content: 2021-06-04
 ---
 
 # Menü
@@ -47,11 +47,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
-<img :src="$withBase('/food/antipasti/insalata_di_arance.webp')" alt="Insalata di Arance" loading="lazy">
-
 9 €
 
-### gebratene Artischocken 
+### gebratene Artischocken
 
 12 €
 
@@ -83,10 +81,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Kalbsbries, Pfifferlinge, Spargel 
-
-18 €
-
 ### Calamaretti
 
 <img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
@@ -108,6 +102,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 > Tintenfisch mit Tomaten
 
 16 €
+
+### Kalbsbries, Pfifferlinge, Spargel
+
+18 €
 
 ## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -136,7 +134,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Thunfisch steak auf Rucola
+### Thunfisch-Steak auf Rucola
+
+<img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfisch-Steak" loading="lazy">
 
 25 €
 
@@ -202,8 +202,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-
-
 ### Pasta Salsiccia, Trüffel
 
 <img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta mit Salsiccia und Trüffel" loading="lazy">
@@ -219,6 +217,8 @@ Wir bieten auch glutenfreie Pasta an.
 16 €
 
 ### Spaghetti Vongole
+
+> mit Venusmuscheln
 
 16 €
 

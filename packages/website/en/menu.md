@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-05-26
+date: 2021-06-04
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-05-26
+    content: 2021-06-04
 ---
 
 # Menu
@@ -44,11 +44,13 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Starters
 
-### Fennel and orange salad <Badge text="vegetarian"/> <Badge text="vegan"/>
-
-<img :src="$withBase('/food/antipasti/insalata_di_arance.webp')" alt="Insalata di Arance" loading="lazy">
+### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
 9 €
+
+### Fried artichokes
+
+12 €
 
 ### Vitello tonnato
 
@@ -60,6 +62,14 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
+### Burrata, Tomatoes, Zucchini <Badge text="vegetarian"/>
+
+<img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata with Zucchini and Asparagus" loading="lazy">
+
+> creamy mozzarella cheese on braised eggplant and other seasonal vegetables in a fresh tomato sauce
+
+14 €
+
 ### Parmigiana
 
 <img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
@@ -67,14 +77,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 14 €
 
 ### Frittura
-
-14 €
-
-### Burrata auf Caponata <Badge text="vegetarian"/>
-
-<img :src="$withBase('/food/antipasti/burrata_zucchini_asparagi.webp')" alt="Burrata with Zucchini and Asparagus" loading="lazy">
-
-> creamy mozzarella cheese on braised eggplant and other seasonal vegetables in a fresh tomato sauce
 
 14 €
 
@@ -99,6 +101,12 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 > octopus with tomatoes
 
 16 €
+
+### Sweetbreads, Chanterelles, Asparagus
+
+> calf
+
+18 €
 
 ## Antipasti misti <Badge text="only via pre-order" type="warning"/>
 
@@ -127,15 +135,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 23 €
 
-### Cod in a broth
+### Thuna steak on rucola
 
-<img :src="$withBase('/food/pesce/merluzzo.webp')" alt="Cod in a broth" loading="lazy">
-
-23.50 €
-
-### Thuna tagliata
-
-> raw cut thuna
+<img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thuna steak" loading="lazy">
 
 25 €
 
@@ -202,6 +204,12 @@ We also serve gluten free pasta.
 
 14 €
 
+### Spaghetti Vongole
+
+> with clams
+
+16 €
+
 ### Pasta Salsiccia, Truffles
 
 <img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta with Salsiccia and Truffles" loading="lazy">
@@ -216,7 +224,7 @@ We also serve gluten free pasta.
 
 16 €
 
-### Paccheri Pesto, Burrata
+### Calamarata Pesto, Burrata
 
 <img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta Pesto Burrata" loading="lazy">
 
@@ -242,7 +250,7 @@ You can select your own toppings.
 
 > Vegetables, Gorgonzola cheese
 
-11 €
+12 €
 
 ### Pizza Asparagus, Taleggio, tomatoes <Badge text="vegetarian"/>
 
