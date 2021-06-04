@@ -51,6 +51,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
+### gebratene Artischocken 
+
+12 €
+
 ### Vitello tonnato
 
 > Kalbfleisch mit Thunfischsauce
@@ -198,6 +202,8 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
+
+
 ### Pasta Salsiccia, Trüffel
 
 <img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta mit Salsiccia und Trüffel" loading="lazy">
@@ -212,9 +218,9 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Spaghetti Cozze
+### Spaghetti Vongole
 
-14 €
+16 €
 
 ### Calamarata Pesto, Burrata
 
