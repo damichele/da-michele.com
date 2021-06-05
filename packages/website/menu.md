@@ -101,6 +101,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Spargelsalat mit Gambas
 
+<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Spargelsalat mit Gambas" loading="lazy">
+
 16 €
 
 ### Kalbsbries, Pfifferlinge, Spargel

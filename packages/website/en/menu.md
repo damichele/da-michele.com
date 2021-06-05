@@ -100,6 +100,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Asparagus salad with gambas
 
+<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Asparagus salad with Gambas" loading="lazy">
+
 16 €
 
 ### Sweetbreads, Chanterelles, Asparagus
