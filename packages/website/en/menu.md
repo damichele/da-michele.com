@@ -131,6 +131,12 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 21 €
 
+### Grilled sepia
+
+> squid
+
+21 €
+
 ### Swordfish
 
 23 €

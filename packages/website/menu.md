@@ -130,6 +130,12 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 21 €
 
+### Sepia gegrillt
+
+> Tintenfisch
+
+21 €
+
 ### Schwertfisch
 
 23 €
