@@ -58,7 +58,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > veal with thuna sauce
 
-12 €
+13 €
 
 ### Parma ham with buffalo mozzarella
 
@@ -69,12 +69,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes and Zucchini" loading="lazy">
 
 > creamy mozzarella cheese on braised eggplant and other seasonal vegetables in a fresh tomato sauce
-
-14 €
-
-### Parmigiana <Badge text="vegetarian"/>
-
-<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
 
 14 €
 
@@ -98,9 +92,13 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Polpo Pomodoro
+### Polpo with peas
 
-> octopus with tomatoes
+> octopus with peas
+
+16 €
+
+### Asparagus salad with gambas
 
 16 €
 
@@ -142,6 +140,12 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thuna steak" loading="lazy">
 
 25 €
+
+### Sea bass (whole)
+
+> about 600 g
+
+29 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -215,6 +219,10 @@ We also serve gluten free pasta.
 > with clams
 
 16 €
+
+### Pasta Salsiccia, Eggplant
+
+14 €
 
 ### Pasta Salsiccia, Truffles
 

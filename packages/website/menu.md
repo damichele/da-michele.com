@@ -59,7 +59,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Kalbfleisch mit Thunfischsauce
 
-12 €
+13 €
 
 ### Parmaschinken mit Büffelmozzarella
 
@@ -70,12 +70,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten und Zucchini" loading="lazy">
 
 > cremiger Mozzarella auf geschmorten Auberginen und anderem Gemüse der Saison in einer frischen Tomatensauce
-
-14 €
-
-### Parmigiana <Badge text="vegetarisch"/>
-
-<img :src="$withBase('/food/antipasti/parmigiana.webp')" alt="Parmigiana" loading="lazy">
 
 14 €
 
@@ -99,9 +93,13 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Polpo Pomodoro
+### Polpo Erbsen
 
-> Tintenfisch mit Tomaten
+> Tintenfisch mit Erbsen
+
+16 €
+
+### Spargelsalat mit Gambas
 
 16 €
 
@@ -141,6 +139,12 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 <img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfisch-Steak" loading="lazy">
 
 25 €
+
+### Wolfsbarsch (ganz)
+
+> ca. 600 g
+
+29 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -203,6 +207,10 @@ Wir bieten auch glutenfreie Pasta an.
 12 €
 
 ### Pasta Lachs und Spinat
+
+14 €
+
+### Pasta Salsiccia, Aubergine
 
 14 €
 
