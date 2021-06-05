@@ -94,7 +94,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Polpo with peas
 
-> octopus with peas
+> octopus
 
 16 €
 
@@ -210,7 +210,7 @@ We also serve gluten free pasta.
 
 12 €
 
-### Gnocchi Sorrentina
+### Gnocchi Sorrentina <Badge text="vegetarian"/> <Badge text="vegan"/>
 
 > with cocktail tomatoes and fresh basil
 
@@ -246,11 +246,11 @@ We also serve gluten free pasta.
 
 16 €
 
-### Calamarata Pesto, Burrata
+### Calamarata Pesto, Burrata <Badge text="vegetarian"/>
 
 <img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta Pesto Burrata" loading="lazy">
 
-> creamy mozzarella-cheese
+> thick ring pasta from Naples with creamy mozzarella-cheese
 
 16 €
 

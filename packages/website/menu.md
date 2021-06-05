@@ -95,7 +95,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Polpo Erbsen
 
-> Tintenfisch mit Erbsen
+> Tintenfisch
 
 16 €
 
@@ -208,7 +208,7 @@ Wir bieten auch glutenfreie Pasta an.
 
 12 €
 
-### Gnocchi Sorrentina
+### Gnocchi Sorrentina <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
 > mit Cocktail-Tomaten und frischem Basilikum
 
@@ -244,11 +244,11 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Calamarata Pesto, Burrata
+### Calamarata Pesto, Burrata <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta Pesto Burrata" loading="lazy">
 
-> cremiger Mozzarella
+> dicke Ringnudeln aus Neapel mit cremigem Mozzarella
 
 16 €
 
