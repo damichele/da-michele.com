@@ -73,10 +73,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 14 €
 
-### Frittura
-
-14 €
-
 ### Calamaretti
 
 <img :src="$withBase('/food/antipasti/calamaretti.webp')" alt="Calamaretti" loading="lazy">
@@ -128,9 +124,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Doradenfilet gegrillt
-
-21 €
 
 ### Sepia gegrillt
 
@@ -218,17 +211,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Pasta Salsiccia, Aubergine
-
-14 €
-
-### Pasta Salsiccia, Trüffel
-
-<img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta mit Salsiccia und Trüffel" loading="lazy">
-
-> ital. Frischwurst
-
-16 €
 
 ### Spaghetti Polpo
 
@@ -236,13 +218,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Spaghetti Vongole
-
-<img :src="$withBase('/food/pasta/spaghetti_vongole.webp')" alt="Spaghetti Vongole" loading="lazy">
-
-> mit Venusmuscheln
-
-16 €
 
 ### Calamarata Pesto, Burrata <Badge text="vegetarisch"/>
 
