@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-05
+date: 2021-06-06
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-05
+    content: 2021-06-06
 ---
 
 # Menu
@@ -69,10 +69,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes and Zucchini" loading="lazy">
 
 > creamy mozzarella cheese on braised eggplant and other seasonal vegetables in a fresh tomato sauce
-
-14 €
-
-### Frittura
 
 14 €
 
@@ -128,10 +124,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ## Pesce
 
 > Fish
-
-### Grilled sea bream fillet
-
-21 €
 
 ### Grilled sepia
 
@@ -219,26 +211,6 @@ We also serve gluten free pasta.
 ### Pasta Salmon and Spinach
 
 14 €
-
-### Spaghetti Vongole
-
-<img :src="$withBase('/food/pasta/spaghetti_vongole.webp')" alt="Spaghetti Vongole" loading="lazy">
-
-> with clams
-
-16 €
-
-### Pasta Salsiccia, Eggplant
-
-14 €
-
-### Pasta Salsiccia, Truffles
-
-<img :src="$withBase('/food/pasta/pasta_con_salsiccia_e_tartufo.webp')" alt="Pasta with Salsiccia and Truffles" loading="lazy">
-
-> Italian raw meat sausage
-
-16 €
 
 ### Spaghetti Polpo
 

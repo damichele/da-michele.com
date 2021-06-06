@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-05
+date: 2021-06-06
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-05
+    content: 2021-06-06
 ---
 
 # Menü
@@ -124,7 +124,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-
 ### Sepia gegrillt
 
 > Tintenfisch
@@ -211,13 +210,11 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-
 ### Spaghetti Polpo
 
 > Tintenfisch
 
 16 €
-
 
 ### Calamarata Pesto, Burrata <Badge text="vegetarisch"/>
 
