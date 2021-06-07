@@ -95,11 +95,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Spargelsalat mit Gambas
-
-<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Spargelsalat mit Gambas" loading="lazy">
-
-16 €
 
 ### Kalbsbries, Pfifferlinge, Spargel
 
@@ -224,9 +219,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Tagliatelle Trüffel <Badge text="vegetarisch"/>
-
-18 €
 
 ## Pizze
 
@@ -244,7 +236,7 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 12 €
 
-### Pizza Spargel, Taleggio , Tomaten <Badge text="vegetarisch"/>
+### Pizza quanciale, Taleggio , Tomaten <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/pizze/pizza_asparagi_taleggio_pomodoro.webp')" alt="Pizza mit Spargel, Taleggio und Tomaten" loading="lazy">
 
@@ -252,7 +244,7 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 13 €
 
-### Pizza Salsiccia, Brokkoli
+### Pizza Gorgonzola , Walnüsse 
 
 <img :src="$withBase('/food/pizze/pizza_salsiccia_broccoli.webp')" alt="Pizza mit Salsiccia und Brokkoli" loading="lazy">
 
