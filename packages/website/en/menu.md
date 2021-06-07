@@ -210,6 +210,12 @@ We also serve gluten free pasta.
 
 14 €
 
+### Pasta Salsiccia Truffles
+
+> Italian raw meat sausage
+
+16 €
+
 ### Spaghetti Polpo
 
 > octopus
@@ -223,6 +229,10 @@ We also serve gluten free pasta.
 > thick ring pasta from Naples with creamy mozzarella-cheese
 
 16 €
+
+### Tagliatelle Truffles <Badge text="vegetarian"/>
+
+18 €
 
 ## Pizze
 

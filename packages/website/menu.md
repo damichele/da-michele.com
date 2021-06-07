@@ -140,7 +140,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 29 €
 
-### Steinbuttfilet auf Spinat 
+### Steinbuttfilet auf Spinat
 
 25 €
 
@@ -208,7 +208,9 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Pasta Salsiccia Trüffel 
+### Pasta Salsiccia Trüffel
+
+> ital. Frischwurst
 
 16 €
 
@@ -218,10 +220,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-### Tagliatelle Trüffel 
-
-18 €
-
 ### Calamarata Pesto, Burrata <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/pasta/pasta_pesto_burrata.webp')" alt="Pasta Pesto Burrata" loading="lazy">
@@ -229,6 +227,10 @@ Wir bieten auch glutenfreie Pasta an.
 > dicke Ringnudeln aus Neapel mit cremigem Mozzarella
 
 16 €
+
+### Tagliatelle Trüffel <Badge text="vegetarisch"/>
+
+18 €
 
 ## Pizze
 
