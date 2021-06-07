@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-06
+date: 2021-06-07
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-06
+    content: 2021-06-07
 ---
 
 # Menü
@@ -94,7 +94,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 > Tintenfisch
 
 16 €
-
 
 ### Kalbsbries, Pfifferlinge, Spargel
 
@@ -219,7 +218,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 16 €
 
-
 ## Pizze
 
 > Pizzen
@@ -236,19 +234,13 @@ Du kannst Dir Deine Pizzen nach Wunsch belegen lassen.
 
 12 €
 
-### Pizza quanciale, Taleggio , Tomaten <Badge text="vegetarisch"/>
-
-<img :src="$withBase('/food/pizze/pizza_asparagi_taleggio_pomodoro.webp')" alt="Pizza mit Spargel, Taleggio und Tomaten" loading="lazy">
+### Pizza Guanciale, Taleggio , Tomaten
 
 > ital. Rohmilchkäse
 
 13 €
 
-### Pizza Gorgonzola , Walnüsse 
-
-<img :src="$withBase('/food/pizze/pizza_salsiccia_broccoli.webp')" alt="Pizza mit Salsiccia und Brokkoli" loading="lazy">
-
-> ital. Frischwurst
+### Pizza Gorgonzola , Walnüsse
 
 13 €
 

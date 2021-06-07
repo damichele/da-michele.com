@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-06
+date: 2021-06-07
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-06
+    content: 2021-06-07
 ---
 
 # Menu
@@ -91,12 +91,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ### Polpo with peas
 
 > octopus
-
-16 €
-
-### Asparagus salad with gambas
-
-<img :src="$withBase('/food/antipasti/insalata_asparagi_gambas.webp')" alt="Asparagus salad with Gambas" loading="lazy">
 
 16 €
 
@@ -226,10 +220,6 @@ We also serve gluten free pasta.
 
 16 €
 
-### Tagliatelle Truffles <Badge text="vegetarian"/>
-
-18 €
-
 ## Pizze
 
 > Pizzas
@@ -246,19 +236,13 @@ You can select your own toppings.
 
 12 €
 
-### Pizza Asparagus, Taleggio, tomatoes <Badge text="vegetarian"/>
-
-<img :src="$withBase('/food/pizze/pizza_asparagi_taleggio_pomodoro.webp')" alt="Pizza con Asparagi e Taleggio e Pomodori" loading="lazy">
+### Pizza Guanciale, Taleggio-cheese, tomatoes
 
 > Italian raw milk cheese
 
 13 €
 
-### Pizza Salsiccia e Broccoli
-
-<img :src="$withBase('/food/pizze/pizza_salsiccia_broccoli.webp')" alt="Pizza con Salsiccia e Broccoli" loading="lazy">
-
-> Italian raw meat sausage
+### Pizza Gorgonzola and Walnuts
 
 13 €
 
