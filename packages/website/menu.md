@@ -208,11 +208,19 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
+### Pasta Salsiccia Trüffel 
+
+16 €
+
 ### Spaghetti Polpo
 
 > Tintenfisch
 
 16 €
+
+### Tagliatelle Trüffel 
+
+18 €
 
 ### Calamarata Pesto, Burrata <Badge text="vegetarisch"/>
 
