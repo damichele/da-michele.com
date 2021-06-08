@@ -16,15 +16,15 @@ meta:
 
 ## Opening hours
 
-| Weekday   | Noon                                                                   | Evening                                                               |
-| --------- |:----------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-| Monday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
-| Tuesday   | Closed                                                                 | Closed                                                                |
-| Wednesday | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
-| Thursday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
-| Friday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
-| Saturday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
-| Sunday    | Closed                                                                 | <time datetime="17:30">5:30pm</time> - <time datetime="21">9pm</time> |
+| Weekday   | Noon                                                                   | Evening                                                                     |
+| --------- |:----------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| Monday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21:30">9:30pm</time> |
+| Tuesday   | Closed                                                                 | Closed                                                                      |
+| Wednesday | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21:30">9:30pm</time> |
+| Thursday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21:30">9:30pm</time> |
+| Friday    | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21:30">9:30pm</time> |
+| Saturday  | <time datetime="12:00">12pm</time> - <time datetime="14:00">2pm</time> | <time datetime="17:30">5:30pm</time> - <time datetime="21:30">9:30pm</time> |
+| Sunday    | Closed                                                                 | <time datetime="17:30">5:30pm</time> - <time datetime="21:30">9:30pm</time> |
 
 ## Team
 

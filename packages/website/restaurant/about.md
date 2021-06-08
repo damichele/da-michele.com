@@ -16,15 +16,15 @@ meta:
 
 ## Öffnungszeiten
 
-| Wochentag  | Mittags                                                             | Abends                                                              |
-| ---------- |:-------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| Montag     | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
-| Dienstag   | Geschlossen                                                         | Geschlossen                                                         |
-| Mittwoch   | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
-| Donnerstag | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
-| Freitag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
-| Samstag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
-| Sonntag    | Geschlossen                                                         | <time datetime="17:30">17:30</time> - <time datetime="21">21</time> |
+| Wochentag  | Mittags                                                             | Abends                                                                    |
+| ---------- |:-------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| Montag     | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21:30">21:30</time> |
+| Dienstag   | Geschlossen                                                         | Geschlossen                                                               |
+| Mittwoch   | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21:30">21:30</time> |
+| Donnerstag | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21:30">21:30</time> |
+| Freitag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21:30">21:30</time> |
+| Samstag    | <time datetime="12:00">12</time> - <time datetime="14:00">14</time> | <time datetime="17:30">17:30</time> - <time datetime="21:30">21:30</time> |
+| Sonntag    | Geschlossen                                                         | <time datetime="17:30">17:30</time> - <time datetime="21:30">21:30</time> |
 
 ## Team
 
