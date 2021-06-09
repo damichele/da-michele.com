@@ -128,12 +128,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 23 €
 
-### Thunfisch-Steak auf Rucola
-
-<img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfisch-Steak" loading="lazy">
-
-25 €
-
 ### Wolfsbarsch (ganz)
 
 > ca. 600 g
