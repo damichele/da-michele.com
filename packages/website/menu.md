@@ -93,20 +93,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 18 €
 
-## Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
 
-> Gemischte Vorspeisenteller
-
-### Antipasti misti <Badge text="nur auf Vorbestellung" type="warning"/>
-
-<img :src="$withBase('/food/antipasti-misti/antipasti_misti.webp')" alt="Antipasti Misti" loading="lazy">
-
-> Vitello tonnato, Carpaccio, Tomaten & Mozzarella, Parmaschinken, eingelegte Tomaten
-
-* nur [**auf telefonische Vorbestellung**](tel:+49722161541)
-* Preise auf Anfrage
-* Zutaten nach Verfügbarkeit
-* ab zwei Portionen
 
 ## Pesce
 
