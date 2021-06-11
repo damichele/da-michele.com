@@ -106,7 +106,11 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 * nur [**auf telefonische Vorbestellung**](tel:+49722161541)
 * Preise auf Anfrage
 * Zutaten nach Verfügbarkeit
+* ab zwei Portionen
 
+## Pesce
+
+> Fisch
 
 ### Schwertfisch
 
@@ -115,6 +119,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Wolfsbarsch (ganz)
 
 > ca. 600 g
+
 29 €
 
 ### Steinbuttfilet auf Spinat

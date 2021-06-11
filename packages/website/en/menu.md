@@ -48,12 +48,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 9 €
 
-### Fried artichokes <Badge text="vegetarian"/>
-
-<img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Fried artichokes" loading="lazy">
-
-12 €
-
 ### Vitello tonnato
 
 > veal with thuna sauce
@@ -96,7 +90,7 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Sweetbreads, Chanterelles, Asparagus
 
-> calf
+> veal
 
 18 €
 
@@ -118,12 +112,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ## Pesce
 
 > Fish
-
-### Grilled sepia
-
-> squid
-
-21 €
 
 ### Swordfish
 
@@ -158,21 +146,13 @@ You only need to heat up the meal in your oven at home.
 
 > Meat
 
-### Calf liver alla Veneziana
+### Veal liver alla Veneziana
 
 16 €
 
 ### Veal medallions in white wine sauce
 
 19.50 €
-
-### Veal carrée with Taleggio cheese and Truffles
-
-<img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Veal carrée with Taleggio cheese and Truffles" loading="lazy">
-
-> Italian raw milk cheese
-
-25 €
 
 ### Dry Aged Black Angus Tagliata
 
