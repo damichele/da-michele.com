@@ -49,12 +49,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
-### gebratene Artischocken <Badge text="vegetarisch"/>
-
-<img :src="$withBase('/food/antipasti/carciofi.webp')" alt="Gebratene Artischocken" loading="lazy">
-
-12 €
-
 ### Vitello tonnato
 
 > Kalbfleisch mit Thunfischsauce
@@ -112,17 +106,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 * nur [**auf telefonische Vorbestellung**](tel:+49722161541)
 * Preise auf Anfrage
 * Zutaten nach Verfügbarkeit
-* ab zwei Portionen
 
-## Pesce
-
-> Fisch
-
-### Sepia gegrillt
-
-> Tintenfisch
-
-21 €
 
 ### Schwertfisch
 
@@ -131,7 +115,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Wolfsbarsch (ganz)
 
 > ca. 600 g
-
 29 €
 
 ### Steinbuttfilet auf Spinat
@@ -163,14 +146,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 ### Kalbsmedallions in Weißweinsauce
 
 19.50 €
-
-### Kalbskarrée mit Taleggio und Trüffel
-
-<img :src="$withBase('/food/carne/carree_di_vitello.webp')" alt="Kalbskarrée mit Taleggio und Trüffel" loading="lazy">
-
-> ital. Rohmilchkäse
-
-25 €
 
 ### Tagliata vom Dry Aged Black Angus
 
