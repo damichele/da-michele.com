@@ -52,14 +52,6 @@ meta:
 :::
 ::::
 
-### Anca
-
-::: teammember
-<TeamAnca/>
-
-**Anca**: Service.
-:::
-
 ### Arianna
 
 ::: teammember

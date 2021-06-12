@@ -52,14 +52,6 @@ meta:
 :::
 ::::
 
-### Anca
-
-::: teammember
-<TeamAnca/>
-
-**Anca**: Küche.
-:::
-
 ### Arianna
 
 ::: teammember
