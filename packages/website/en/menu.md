@@ -58,9 +58,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 13 €
 
-### Burrata, Tomatoes, Zucchini <Badge text="vegetarian"/>
+### Burrata, Tomatoes <Badge text="vegetarian"/>
 
-<img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes and Zucchini" loading="lazy">
+<img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata with Tomatoes" loading="lazy">
 
 > creamy mozzarella cheese on braised eggplant and other seasonal vegetables in a fresh tomato sauce
 
@@ -82,7 +82,13 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 16 €
 
-### Polpo with peas
+### Polpo al Pomodoro
+
+> octopus with tomatoes
+
+16 €
+
+### Polpo Carpaccio
 
 > octopus
 
@@ -98,15 +104,17 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Fish
 
-### Swordfish
+### Grilled Swordfish
 
 23 €
 
-### Sea bass (whole)
+### Sea bass fillet on Ratatouille
 
-> about 600 g
+23.50 €
 
-29 €
+### Thuna steak on Rucola salad
+
+25 €
 
 ### Turbot fillet on spinach
 
@@ -139,6 +147,10 @@ You only need to heat up the meal in your oven at home.
 
 19.50 €
 
+### Veal carrée with Taleggio-cheese and Truffles
+
+25 €
+
 ### Dry Aged Black Angus Tagliata
 
 <img :src="$withBase('/food/carne/tagliata.webp')" alt="Tagliata" loading="lazy">
@@ -166,6 +178,12 @@ We also serve gluten free pasta.
 12 €
 
 ### Pasta Salmon and Spinach
+
+14 €
+
+### Spaghetti Cozze
+
+> with mussels
 
 14 €
 

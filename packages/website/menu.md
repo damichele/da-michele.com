@@ -61,7 +61,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Burrata, Tomaten <Badge text="vegetarisch"/>
 
-<img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten und Zucchini" loading="lazy">
+<img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten" loading="lazy">
 
 > cremiger Mozzarella auf geschmorten Auberginen und anderem Gemüse der Saison in einer frischen Tomatensauce
 
@@ -83,13 +83,15 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Polpo al Pomodoro 
+### Polpo al Pomodoro
 
 > Tintenfisch
 
 16 €
 
-### Carpaccio vom Polpo 
+### Carpaccio vom Polpo
+
+> Tintenfisch
 
 16 €
 
@@ -101,17 +103,17 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Thunfischsteak auf Rucola
-
-25 €
-
 ### Schwertfisch gegrillt
 
 23 €
 
-### Wolfsbarschfilet auf ratatouille 
+### Wolfsbarschfilet auf Ratatouille
 
 23.50 €
+
+### Thunfischsteak auf Rucola
+
+25 €
 
 ### Steinbuttfilet auf Spinat
 
@@ -143,6 +145,10 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 19.50 €
 
+### Kalbskarrée mit Taleggio und Trüffel
+
+25 €
+
 ### Tagliata vom Dry Aged Black Angus
 
 <img :src="$withBase('/food/carne/tagliata.webp')" alt="Tagliata" loading="lazy">
@@ -150,10 +156,6 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 > Rind auf Rucola mit Tomaten & Parmesan
 
 29 €
-
-### Kalbskarree mit Taleggio und Trüffel 
-
-25 €
 
 ## Pasta
 
@@ -177,6 +179,12 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
+### Spaghetti Cozze
+
+> mit Miesmuscheln
+
+14 €
+
 ### Pasta Salsiccia Trüffel
 
 > ital. Frischwurst
@@ -188,10 +196,6 @@ Wir bieten auch glutenfreie Pasta an.
 > Tintenfisch
 
 16 €
-
-### Spaghetti Cozze 
-
-14 €
 
 ### Calamarata Pesto, Burrata <Badge text="vegetarisch"/>
 
