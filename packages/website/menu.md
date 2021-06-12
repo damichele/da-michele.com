@@ -83,7 +83,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
-### Polpo Erbsen
+### Polpo al Pomodoro 
 
 > Tintenfisch
 
@@ -145,6 +145,10 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 29 €
 
+### Kalbskarree mit Taleggio und Trüffel 
+
+25 €
+
 ## Pasta
 
 > Pasta
@@ -178,6 +182,10 @@ Wir bieten auch glutenfreie Pasta an.
 > Tintenfisch
 
 16 €
+
+### Spaghetti Cozze 
+
+14 €
 
 ### Calamarata Pesto, Burrata <Badge text="vegetarisch"/>
 
