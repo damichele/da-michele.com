@@ -59,7 +59,7 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 13 €
 
-### Burrata, Tomaten, Zucchini <Badge text="vegetarisch"/>
+### Burrata, Tomaten <Badge text="vegetarisch"/>
 
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten und Zucchini" loading="lazy">
 
@@ -89,6 +89,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 16 €
 
+### Carpaccio vom Polpo 
+
+16 €
+
 ### Kalbsbries, Pfifferlinge, Spargel
 
 18 €
@@ -97,15 +101,17 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
-### Schwertfisch
+### Thunfischsteak auf Rucola
+
+25 €
+
+### Schwertfisch gegrillt
 
 23 €
 
-### Wolfsbarsch (ganz)
+### Wolfsbarschfilet auf ratatouille 
 
-> ca. 600 g
-
-29 €
+23.50 €
 
 ### Steinbuttfilet auf Spinat
 
