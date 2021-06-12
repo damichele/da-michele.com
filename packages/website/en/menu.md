@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-11
+date: 2021-06-12
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-11
+    content: 2021-06-12
 ---
 
 # Menu
@@ -93,21 +93,6 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 > veal
 
 18 €
-
-## Antipasti misti <Badge text="only via pre-order" type="warning"/>
-
-> Mixed starter plates
-
-### Antipasti misti <Badge text="only via pre-order" type="warning"/>
-
-<img :src="$withBase('/food/antipasti-misti/antipasti_misti.webp')" alt="Antipasti Misti" loading="lazy">
-
-> Vitello tonnato, carpaccio, tomatoes & mozzarella, parma ham, pickled tomatoes
-
-* Only via pre-order, please [**call us to place an order**](tel:+49722161541)
-* Prices upon request
-* Ingredients according to availability
-* From two servings
 
 ## Pesce
 

@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-11
+date: 2021-06-12
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-11
+    content: 2021-06-12
 ---
 
 # Menü
@@ -92,8 +92,6 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ### Kalbsbries, Pfifferlinge, Spargel
 
 18 €
-
-
 
 ## Pesce
 
