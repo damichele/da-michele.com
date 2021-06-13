@@ -179,11 +179,6 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
-### Spaghetti Cozze
-
-> mit Miesmuscheln
-
-14 €
 
 ### Pasta Salsiccia Trüffel
 
