@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-12
+date: 2021-06-13
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-12
+    content: 2021-06-13
 ---
 
 # Menu
@@ -178,12 +178,6 @@ We also serve gluten free pasta.
 12 €
 
 ### Pasta Salmon and Spinach
-
-14 €
-
-### Spaghetti Cozze
-
-> with mussels
 
 14 €
 

@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-12
+date: 2021-06-13
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-12
+    content: 2021-06-13
 ---
 
 # Menü
@@ -178,7 +178,6 @@ Wir bieten auch glutenfreie Pasta an.
 ### Pasta Lachs und Spinat
 
 14 €
-
 
 ### Pasta Salsiccia Trüffel
 
