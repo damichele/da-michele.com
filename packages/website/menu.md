@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-13
+date: 2021-06-14
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-13
+    content: 2021-06-14
 ---
 
 # Menü
@@ -64,6 +64,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 <img :src="$withBase('/food/antipasti/burrata.webp')" alt="Burrata mit Tomaten" loading="lazy">
 
 > cremiger Mozzarella auf geschmorten Auberginen und anderem Gemüse der Saison in einer frischen Tomatensauce
+
+14 €
+
+### Parmaschinken, Melone
 
 14 €
 
@@ -176,6 +180,10 @@ Wir bieten auch glutenfreie Pasta an.
 12 €
 
 ### Pasta Lachs und Spinat
+
+14 €
+
+### Tagliatelle Pfifferlinge <Badge text="vegetarisch"/>
 
 14 €
 
