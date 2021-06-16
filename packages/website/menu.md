@@ -49,6 +49,12 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 9 €
 
+### Melone, Basilikum - Gazpacho <Badge text="vegetarisch"/> <Badge text="vegan"/>
+
+> kalte Tomatensuppe
+
+9 €
+
 ### Vitello tonnato
 
 > Kalbfleisch mit Thunfischsauce
@@ -119,9 +125,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 25 €
 
-### Steinbuttfilet auf Spinat
+### Baby-Steinbutt
 
-25 €
+26.50 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -161,6 +167,10 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 29 €
 
+### Rinderfilet mit Pfifferlingen
+
+29 €
+
 ## Pasta
 
 > Pasta
@@ -196,6 +206,12 @@ Wir bieten auch glutenfreie Pasta an.
 ### Spaghetti Polpo
 
 > Tintenfisch
+
+16 €
+
+### Spaghetti Vongole
+
+> Venusmuscheln
 
 16 €
 

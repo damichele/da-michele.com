@@ -48,6 +48,12 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 9 €
 
+### Melon, Basil - Gazpacho <Badge text="vegetarian"/> <Badge text="vegan"/>
+
+> cold tomatoe soup
+
+9 €
+
 ### Vitello tonnato
 
 > veal with thuna sauce
@@ -120,9 +126,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 25 €
 
-### Turbot fillet on spinach
+### Baby-Turbot
 
-25 €
+26.50 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -163,6 +169,10 @@ You only need to heat up the meal in your oven at home.
 
 29 €
 
+### Beef fillet with chanterelles
+
+29 €
+
 ## Pasta
 
 > Pasta
@@ -198,6 +208,12 @@ We also serve gluten free pasta.
 ### Spaghetti Polpo
 
 > octopus
+
+16 €
+
+### Spaghetti Vongole
+
+> clams
 
 16 €
 
