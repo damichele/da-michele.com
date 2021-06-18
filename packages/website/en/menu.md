@@ -207,6 +207,12 @@ We also serve gluten free pasta.
 
 14 €
 
+### Spaghetti Cozze
+
+> mussels
+
+14 €
+
 ### Pasta Salsiccia Truffles
 
 > Italian raw meat sausage
