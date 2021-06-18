@@ -105,6 +105,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Carpaccio vom Polpo
 
+<img :src="$withBase('/food/antipasti/polpo_carpaccio.webp')" alt="Polpo Carpaccio" loading="lazy">
+
 > Tintenfisch
 
 16 €
@@ -123,6 +125,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 ### Schwertfisch gegrillt
 
+<img :src="$withBase('/food/pesce/pesce_spada.webp')" alt="Schwertfisch gegrillt" loading="lazy">
+
 23 €
 
 ### Wolfsbarschfilet auf Ratatouille
@@ -130,6 +134,8 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 23.50 €
 
 ### Thunfischsteak auf Rucola
+
+<img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thunfischsteak" loading="lazy">
 
 25 €
 

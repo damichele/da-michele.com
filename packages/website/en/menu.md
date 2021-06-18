@@ -104,6 +104,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Polpo Carpaccio
 
+<img :src="$withBase('/food/antipasti/polpo_carpaccio.webp')" alt="Polpo Carpaccio" loading="lazy">
+
 > octopus
 
 16 €
@@ -124,6 +126,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 ### Grilled Swordfish
 
+<img :src="$withBase('/food/pesce/pesce_spada.webp')" alt="Grilled swordfish" loading="lazy">
+
 23 €
 
 ### Sea bass fillet on Ratatouille
@@ -131,6 +135,8 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 23.50 €
 
 ### Thuna steak on Rucola salad
+
+<img :src="$withBase('/food/pesce/bistecca_di_tonno.webp')" alt="Thuna steak" loading="lazy">
 
 25 €
 
