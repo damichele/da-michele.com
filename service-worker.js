@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "46a159da62301b15efdea4e4f3571709"
+    "revision": "559ff516292e8f469ffb693bdc8a9165"
   },
   {
     "url": "assets/css/0.styles.975c0afc.css",
@@ -170,40 +170,40 @@ self.__precacheManifest = [
     "revision": "1816665521e258ebb1c4838722aaabff"
   },
   {
-    "url": "assets/js/app.3667fc7a.js",
-    "revision": "388ae94d6749a89477c0c66060af4446"
+    "url": "assets/js/app.9e997493.js",
+    "revision": "6ccd452da468325f75a86f9805e77bc1"
   },
   {
     "url": "en/imprint.html",
-    "revision": "e612f26b48a26982163170c15ac4ea05"
+    "revision": "daa01947f372ae440f75bc5612749fa6"
   },
   {
     "url": "en/index.html",
-    "revision": "41d0511d1a0c3c95cf58f52f12453645"
+    "revision": "357b2ab53ef17928b1479b1a7fc8e7f6"
   },
   {
     "url": "en/legal/privacy.html",
-    "revision": "e377d8be5b2ddea197fb2cd28cb98ee2"
+    "revision": "dd10825163f485d8c34ba7426b4d51c8"
   },
   {
     "url": "en/legal/terms.html",
-    "revision": "354397acf19f0bff209398f29b649719"
+    "revision": "3761d4d3c886ceb881497d0f37420b08"
   },
   {
     "url": "en/menu.html",
-    "revision": "45a944aa82f27c1be277680a889b3f83"
+    "revision": "ac377f00c5e6d2a804a47cd4ff5188f6"
   },
   {
     "url": "en/restaurant/about.html",
-    "revision": "903342cc8c5119c257c8671606a42ad2"
+    "revision": "7dc5341592970b2371d29e2507d4f4eb"
   },
   {
     "url": "en/restaurant/career.html",
-    "revision": "3192197cb409dab796af0ef2e504e7f9"
+    "revision": "31854070ea86e716318bf11a44d5f877"
   },
   {
     "url": "en/restaurant/voucher.html",
-    "revision": "b7131bf9b2ee74c17c3f0759e232b4c5"
+    "revision": "98b5ee936e0f01032d4f11bebc9d07fa"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -338,28 +338,20 @@ self.__precacheManifest = [
     "revision": "8526e9375fdff96e23f4582d453a8ffa"
   },
   {
-    "url": "food/antipasti/polpo_carpaccio.png",
-    "revision": "707c7a2c2b1dd08a310e4ae47221eaa8"
-  },
-  {
-    "url": "food/pesce/pesce_spada.png",
-    "revision": "7fa4331e651f765aa57e2099c1810c08"
-  },
-  {
     "url": "imprint.html",
-    "revision": "10e1090e0e8515b5e1ac0201836b22b7"
+    "revision": "04fcd1bc3764e3275225356995791986"
   },
   {
     "url": "index.html",
-    "revision": "da2c550cab3b253f57964b5f898a7f5c"
+    "revision": "36c3484fab181513cb1a79c36fde60e5"
   },
   {
     "url": "legal/privacy.html",
-    "revision": "396a7677cd75c259eec0a2d72a5c8e72"
+    "revision": "68b8eaa19022a9610fe16f0b95ad9f93"
   },
   {
     "url": "legal/terms.html",
-    "revision": "72180981cd3451a8d120a6b98b6922c9"
+    "revision": "5499d6ae49bb14885bd5da629abc1005"
   },
   {
     "url": "logo.png",
@@ -367,19 +359,19 @@ self.__precacheManifest = [
   },
   {
     "url": "menu.html",
-    "revision": "29e1ace9bea3990e3c7e1865a77d6dbf"
+    "revision": "0d6b7ef95f7a5fe60845db06eeadd38c"
   },
   {
     "url": "restaurant/about.html",
-    "revision": "5f9246aa7e71c0b9a34bd4306e9a26cb"
+    "revision": "d47836ec56420e3ac79ac3fdd5af01bd"
   },
   {
     "url": "restaurant/career.html",
-    "revision": "99c8e241fa6a7f122b438e5f7158cd5e"
+    "revision": "45c5ae629d4f559ace26b0236373cfa2"
   },
   {
     "url": "restaurant/voucher.html",
-    "revision": "e8b23303f999c1ac597069d65ebb9490"
+    "revision": "0c72cbc5ea67a54ca787648e5f2ee4aa"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
