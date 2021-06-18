@@ -1,6 +1,6 @@
 ---
 lang: en-US
-date: 2021-06-17
+date: 2021-06-18
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -29,7 +29,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-17
+    content: 2021-06-18
 ---
 
 # Menu
@@ -43,6 +43,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 ## Antipasti
 
 > Starters
+
+### Oysters
+
+3.50 € / piece
 
 ### Fennel salad <Badge text="vegetarian"/> <Badge text="vegan"/>
 
@@ -114,6 +118,10 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 > Fish
 
+### Grilled sea bass fillet
+
+21 €
+
 ### Grilled Swordfish
 
 23 €
@@ -126,9 +134,9 @@ Today we serve our classics such as Spaghetti Aglio é Olio, Spaghetti Napoli, S
 
 25 €
 
-### Baby-Turbot
+### Sea bream (whole)
 
-26.50 €
+28 €
 
 ## Pesci Interi <Badge text="only via pre-order" type="warning"/>
 
@@ -169,7 +177,7 @@ You only need to heat up the meal in your oven at home.
 
 29 €
 
-### Beef fillet with chanterelles
+### Beef fillet with truffles-paste
 
 29 €
 
@@ -208,12 +216,6 @@ We also serve gluten free pasta.
 ### Spaghetti Polpo
 
 > octopus
-
-16 €
-
-### Spaghetti Vongole
-
-> clams
 
 16 €
 

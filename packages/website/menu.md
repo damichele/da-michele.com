@@ -1,6 +1,6 @@
 ---
 lang: de-DE
-date: 2021-06-17
+date: 2021-06-18
 sidebar: false
 pageClass: custom-menu
 tags:
@@ -30,7 +30,7 @@ meta:
   - property: article:author
     content: Vincenzo Romano
   - property: article:modified_time
-    content: 2021-06-17
+    content: 2021-06-18
 ---
 
 # Menü
@@ -44,6 +44,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 ## Antipasti
 
 > Vorspeisen
+
+### Austern
+
+3.50 € / Stück
 
 ### Fenchelsalat <Badge text="vegetarisch"/> <Badge text="vegan"/>
 
@@ -113,6 +117,10 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 > Fisch
 
+### Wolfsbarschfilet gegrillt
+
+21 €
+
 ### Schwertfisch gegrillt
 
 23 €
@@ -125,9 +133,9 @@ Neben unseren Klassikern, wie Spaghetti Aglio é Olio, Spaghetti Napoli, Spaghet
 
 25 €
 
-### Baby-Steinbutt
+### Dorade (ganz)
 
-26.50 €
+28 €
 
 ## Pesci Interi <Badge text="nur auf Vorbestellung" type="warning"/>
 
@@ -167,7 +175,7 @@ Wir bereiten alles für Dich vor, damit Du den Fisch zuhause nur noch in den Ofe
 
 29 €
 
-### Rinderfilet mit Pfifferlingen
+### Rinderfilet mit Trüffel-Paste
 
 29 €
 
@@ -197,6 +205,12 @@ Wir bieten auch glutenfreie Pasta an.
 
 14 €
 
+### Spaghetti Cozze
+
+> Miesmuscheln
+
+14 €
+
 ### Pasta Salsiccia Trüffel
 
 > ital. Frischwurst
@@ -206,12 +220,6 @@ Wir bieten auch glutenfreie Pasta an.
 ### Spaghetti Polpo
 
 > Tintenfisch
-
-16 €
-
-### Spaghetti Vongole
-
-> Venusmuscheln
 
 16 €
 
