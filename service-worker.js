@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a4dca22a02bff9fc68eada40b73014c7"
+    "revision": "46a159da62301b15efdea4e4f3571709"
   },
   {
     "url": "assets/css/0.styles.975c0afc.css",
@@ -94,8 +94,8 @@ self.__precacheManifest = [
     "revision": "58ba591bfea24ea1b03071bb93985780"
   },
   {
-    "url": "assets/js/23.6fc21d77.js",
-    "revision": "c082f6425c334c901cbdb9729cb54778"
+    "url": "assets/js/23.77699e8e.js",
+    "revision": "199226f05e510115ae43602c6c7b0f3b"
   },
   {
     "url": "assets/js/24.014046d3.js",
@@ -126,8 +126,8 @@ self.__precacheManifest = [
     "revision": "95c0ecb1134a611b2c50ec127e2bccf7"
   },
   {
-    "url": "assets/js/30.0ac4190d.js",
-    "revision": "64c9bccbce87ab84121e570dbdef73d5"
+    "url": "assets/js/30.6a2135ab.js",
+    "revision": "851dafd63c4760fd726a308529b3de01"
   },
   {
     "url": "assets/js/31.e8ed0a23.js",
@@ -170,40 +170,40 @@ self.__precacheManifest = [
     "revision": "1816665521e258ebb1c4838722aaabff"
   },
   {
-    "url": "assets/js/app.076a3c9e.js",
-    "revision": "ea901749a23674dda971ead2d1584d73"
+    "url": "assets/js/app.3667fc7a.js",
+    "revision": "388ae94d6749a89477c0c66060af4446"
   },
   {
     "url": "en/imprint.html",
-    "revision": "fa4ef062c8b82081ccf56cbc2b0e1652"
+    "revision": "e612f26b48a26982163170c15ac4ea05"
   },
   {
     "url": "en/index.html",
-    "revision": "a1787f0c3e7ea9db671c31ed26abb01b"
+    "revision": "41d0511d1a0c3c95cf58f52f12453645"
   },
   {
     "url": "en/legal/privacy.html",
-    "revision": "343df41e301c89ab036663d03862e007"
+    "revision": "e377d8be5b2ddea197fb2cd28cb98ee2"
   },
   {
     "url": "en/legal/terms.html",
-    "revision": "e6714cb77dd1cd8071dd82306e36f761"
+    "revision": "354397acf19f0bff209398f29b649719"
   },
   {
     "url": "en/menu.html",
-    "revision": "6992519c3519517deeb433e602835034"
+    "revision": "45a944aa82f27c1be277680a889b3f83"
   },
   {
     "url": "en/restaurant/about.html",
-    "revision": "1b2ad2bb5a02ecf3fd2c8773f31d5ab0"
+    "revision": "903342cc8c5119c257c8671606a42ad2"
   },
   {
     "url": "en/restaurant/career.html",
-    "revision": "07e0f334f1dadd02a5ac59955b83384e"
+    "revision": "3192197cb409dab796af0ef2e504e7f9"
   },
   {
     "url": "en/restaurant/voucher.html",
-    "revision": "1b748a72507349fd981ced068e7fbac8"
+    "revision": "b7131bf9b2ee74c17c3f0759e232b4c5"
   },
   {
     "url": "favicons/android-chrome-192x192.png",
@@ -338,20 +338,28 @@ self.__precacheManifest = [
     "revision": "8526e9375fdff96e23f4582d453a8ffa"
   },
   {
+    "url": "food/antipasti/polpo_carpaccio.png",
+    "revision": "707c7a2c2b1dd08a310e4ae47221eaa8"
+  },
+  {
+    "url": "food/pesce/pesce_spada.png",
+    "revision": "7fa4331e651f765aa57e2099c1810c08"
+  },
+  {
     "url": "imprint.html",
-    "revision": "6238a907c79ce4b2da9b6409635df5fd"
+    "revision": "10e1090e0e8515b5e1ac0201836b22b7"
   },
   {
     "url": "index.html",
-    "revision": "d2c8a5cf3a5747cb5c5d09d8e24bde84"
+    "revision": "da2c550cab3b253f57964b5f898a7f5c"
   },
   {
     "url": "legal/privacy.html",
-    "revision": "e1f8effe42f5c3fa06c01c353d74dc35"
+    "revision": "396a7677cd75c259eec0a2d72a5c8e72"
   },
   {
     "url": "legal/terms.html",
-    "revision": "11cf0b91c258831c96308a6d09477cc8"
+    "revision": "72180981cd3451a8d120a6b98b6922c9"
   },
   {
     "url": "logo.png",
@@ -359,19 +367,19 @@ self.__precacheManifest = [
   },
   {
     "url": "menu.html",
-    "revision": "9a37370d8a81ad43e23379becbe52d6a"
+    "revision": "29e1ace9bea3990e3c7e1865a77d6dbf"
   },
   {
     "url": "restaurant/about.html",
-    "revision": "43c243ea4abe087dd5cdf6ec8d9854ef"
+    "revision": "5f9246aa7e71c0b9a34bd4306e9a26cb"
   },
   {
     "url": "restaurant/career.html",
-    "revision": "110e125d13aa0aad0028c0993c788780"
+    "revision": "99c8e241fa6a7f122b438e5f7158cd5e"
   },
   {
     "url": "restaurant/voucher.html",
-    "revision": "549c2ff5eb031ee795566207fe04da02"
+    "revision": "e8b23303f999c1ac597069d65ebb9490"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
